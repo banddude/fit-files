@@ -19,8 +19,8 @@
   "video_file": "weighted_step_ups",
   "json_file": "weighted_step_ups.json",
   "duration_per_rep": "controlled up, controlled down",
-  "skateboarding_benefit": "builds single-leg power for push-offs and trick landings",
   "beginner": "8 each leg (15 lb weights)",
   "intermediate": "10 each leg (20 lb weights)",
-  "advanced": "10-20 each leg (30 lb weights)"
+  "advanced": "10-20 each leg (30 lb weights)",
+  "benefit": "builds single-leg power for push-offs and trick landings"
 }

@@ -19,8 +19,8 @@
   "video_file": "balance_board_tilts",
   "json_file": "balance_board_tilts.json",
   "duration_per_rep": "2-3 seconds per tilt",
-  "skateboarding_benefit": "develops skateboard-specific balance and weight shift control",
   "beginner": "10 tilts each direction",
   "intermediate": "12 tilts each direction",
-  "advanced": "15 tilts each direction"
+  "advanced": "15 tilts each direction",
+  "benefit": "develops skateboard-specific balance and weight shift control"
 }

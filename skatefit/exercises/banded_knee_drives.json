@@ -18,8 +18,8 @@
   "video_file": "banded_knee_drives",
   "json_file": "banded_knee_drives.json",
   "duration_per_rep": "2 seconds up, 2 seconds down",
-  "skateboarding_benefit": "builds explosive power for ollies and board manipulation",
   "beginner": "6 reps/side (light band)",
   "intermediate": "8 reps/side (medium band)",
-  "advanced": "10 reps/side (heavy band)"
+  "advanced": "10 reps/side (heavy band)",
+  "benefit": "builds explosive power for ollies and board manipulation"
 }

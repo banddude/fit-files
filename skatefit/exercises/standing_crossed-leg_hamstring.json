@@ -18,8 +18,8 @@
   "video_file": "standing_crossed_leg_hamstring",
   "json_file": "standing_crossed_leg_hamstring.json",
   "duration_per_rep": "hold 15-45 seconds",
-  "skateboarding_benefit": "addresses hamstring tightness while improving functional balance",
   "beginner": "Hold 15 s/side",
   "intermediate": "Hold 30 s/side",
-  "advanced": "Hold 45 s/side"
+  "advanced": "Hold 45 s/side",
+  "benefit": "addresses hamstring tightness while improving functional balance"
 }

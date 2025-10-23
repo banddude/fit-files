@@ -18,8 +18,8 @@
   "video_file": "banded_ankle_flicks",
   "json_file": "banded_ankle_flicks.json",
   "duration_per_rep": "1 second per flick",
-  "skateboarding_benefit": "prevents ankle sprains and improves board control precision",
   "beginner": "10 each direction/foot (1 round)",
   "intermediate": "10 each direction/foot (2 rounds)",
-  "advanced": "12 each direction/foot (2 rounds)"
+  "advanced": "12 each direction/foot (2 rounds)",
+  "benefit": "prevents ankle sprains and improves board control precision"
 }

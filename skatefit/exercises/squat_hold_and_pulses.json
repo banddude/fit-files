@@ -18,8 +18,8 @@
   "video_file": "squat_hold_and_pulses",
   "json_file": "squat_hold_and_pulses.json",
   "duration_per_rep": "20-45 second hold plus 10-20 pulses",
-  "skateboarding_benefit": "builds endurance for deep skating stances and transition riding",
   "beginner": "20 s hold + 10 pulses",
   "intermediate": "30 s hold + 15 pulses",
-  "advanced": "45 s hold + 20 pulses"
+  "advanced": "45 s hold + 20 pulses",
+  "benefit": "builds endurance for deep skating stances and transition riding"
 }

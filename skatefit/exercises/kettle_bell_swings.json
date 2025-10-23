@@ -18,8 +18,8 @@
   "video_file": "kettle_bell_swings",
   "json_file": "kettle_bell_swings.json",
   "duration_per_rep": "1-2 seconds per swing",
-  "skateboarding_benefit": "builds explosive hip power for ollies and pumping motions",
   "beginner": "12 reps (light KB)",
-  "intermediate": "15–20 reps (moderate KB)",
-  "advanced": "20–25 reps (heavier KB)"
+  "intermediate": "15\u201320 reps (moderate KB)",
+  "advanced": "20\u201325 reps (heavier KB)",
+  "benefit": "builds explosive hip power for ollies and pumping motions"
 }

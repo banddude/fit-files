@@ -19,8 +19,8 @@
   "video_file": "banded_abductors_with_kickouts",
   "json_file": "banded_abductors_with_kickouts.json",
   "duration_per_rep": "2-3 seconds",
-  "skateboarding_benefit": "improves lateral balance control and quick ankle adjustments for precise board manipulation",
   "beginner": "10 reps each side (1 round)",
   "intermediate": "12 reps each side (2 rounds)",
-  "advanced": "15 reps each side (2 rounds)"
+  "advanced": "15 reps each side (2 rounds)",
+  "benefit": "improves lateral balance control and quick ankle adjustments for precise board manipulation"
 }

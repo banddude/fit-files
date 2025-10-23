@@ -17,8 +17,8 @@
   "video_file": "calf_raises",
   "json_file": "calf_raises.json",
   "duration_per_rep": "2-3 seconds up, 1 second hold, 2 seconds down",
-  "skateboarding_benefit": "improves push-off power and ankle stability for board control",
   "beginner": "12 reps",
   "intermediate": "15 reps",
-  "advanced": "20 reps"
+  "advanced": "20 reps",
+  "benefit": "improves push-off power and ankle stability for board control"
 }

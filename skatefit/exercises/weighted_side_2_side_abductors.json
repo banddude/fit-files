@@ -18,8 +18,8 @@
   "video_file": "weighted_side_to_side_abductors",
   "json_file": "weighted_side_to_side_abductors.json",
   "duration_per_rep": "2-3 seconds per step",
-  "skateboarding_benefit": "develops lateral control for carving and side-to-side balance",
   "beginner": "10 reps/side (light load)",
   "intermediate": "12 reps/side (moderate load)",
-  "advanced": "15 reps/side (heavier load)"
+  "advanced": "15 reps/side (heavier load)",
+  "benefit": "develops lateral control for carving and side-to-side balance"
 }

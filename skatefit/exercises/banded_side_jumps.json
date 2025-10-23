@@ -19,8 +19,8 @@
   "video_file": "banded_side_jumps",
   "json_file": "banded_side_jumps.json",
   "duration_per_rep": "explosive jump with controlled landing",
-  "skateboarding_benefit": "develops lateral explosive power for trick execution and board manipulation",
   "beginner": "15 total jumps (2 rounds)",
   "intermediate": "18 total jumps (2 rounds)",
-  "advanced": "20 total jumps (3 rounds)"
+  "advanced": "20 total jumps (3 rounds)",
+  "benefit": "develops lateral explosive power for trick execution and board manipulation"
 }

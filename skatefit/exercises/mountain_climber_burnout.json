@@ -19,8 +19,8 @@
   "video_file": "mountain_climber_burnout",
   "json_file": "mountain_climber_burnout.json",
   "duration_per_rep": "maximum intensity for time",
-  "skateboarding_benefit": "builds peak cardiovascular fitness and mental toughness for high-intensity skateboarding performance",
   "beginner": "20 seconds all out (1 round)",
   "intermediate": "25 seconds all out (1 round)",
-  "advanced": "30 seconds all out (1 round)"
+  "advanced": "30 seconds all out (1 round)",
+  "benefit": "builds peak cardiovascular fitness and mental toughness for high-intensity skateboarding performance"
 }

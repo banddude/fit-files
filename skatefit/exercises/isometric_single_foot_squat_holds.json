@@ -19,8 +19,8 @@
   "video_file": "isometric_single_foot_squat_holds",
   "json_file": "isometric_single_foot_squat_holds.json",
   "duration_per_rep": "8-12 second hold",
-  "skateboarding_benefit": "develops single-leg strength and stability for manuals and advanced balance tricks",
   "beginner": "6 reps each leg, 6 sec hold (10 lb assistance)",
   "intermediate": "8 reps each leg, 8 sec hold (15 lb assistance)",
-  "advanced": "8-12 reps each leg, 10 sec hold (15 lb assistance)"
+  "advanced": "8-12 reps each leg, 10 sec hold (15 lb assistance)",
+  "benefit": "develops single-leg strength and stability for manuals and advanced balance tricks"
 }

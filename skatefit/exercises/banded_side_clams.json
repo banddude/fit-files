@@ -18,8 +18,8 @@
   "video_file": "banded_side_clams",
   "json_file": "banded_side_clams.json",
   "duration_per_rep": "2-3 seconds up, 1 second hold, 2 seconds down",
-  "skateboarding_benefit": "strengthens lateral hip stability for better board control and knee protection",
   "beginner": "12 reps each side",
   "intermediate": "15 reps each side",
-  "advanced": "20 reps each side"
+  "advanced": "20 reps each side",
+  "benefit": "strengthens lateral hip stability for better board control and knee protection"
 }

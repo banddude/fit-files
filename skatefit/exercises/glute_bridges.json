@@ -18,8 +18,8 @@
   "video_file": "glute_bridges",
   "json_file": "glute_bridges.json",
   "duration_per_rep": "2-3 seconds",
-  "skateboarding_benefit": "builds power for ollies and transitions",
   "beginner": "12 reps (1 round)",
   "intermediate": "12 reps (2 rounds)",
-  "advanced": "15 reps (2 rounds)"
+  "advanced": "15 reps (2 rounds)",
+  "benefit": "builds power for ollies and transitions"
 }

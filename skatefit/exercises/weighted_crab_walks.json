@@ -19,8 +19,8 @@
   "video_file": "weighted_crab_walks",
   "json_file": "weighted_crab_walks.json",
   "duration_per_rep": "2-3 seconds per step",
-  "skateboarding_benefit": "strengthens posterior chain and improves core stability for better balance",
   "beginner": "10 steps forward + 10 back (light)",
   "intermediate": "12 steps forward + 12 back (moderate)",
-  "advanced": "15 steps forward + 15 back (heavy)"
+  "advanced": "15 steps forward + 15 back (heavy)",
+  "benefit": "strengthens posterior chain and improves core stability for better balance"
 }

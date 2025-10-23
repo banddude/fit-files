@@ -19,8 +19,8 @@
   "video_file": "jump_squats",
   "json_file": "jump_squats.json",
   "duration_per_rep": "explosive jump with soft landing",
-  "skateboarding_benefit": "maximizes vertical power for high ollies and transition air",
   "beginner": "12 reps (2 rounds)",
   "intermediate": "15 reps (2 rounds)",
-  "advanced": "15-20 reps (3 rounds)"
+  "advanced": "15-20 reps (3 rounds)",
+  "benefit": "maximizes vertical power for high ollies and transition air"
 }

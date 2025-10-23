@@ -19,8 +19,8 @@
   "video_file": "banded_mountain_climbers",
   "json_file": "banded_mountain_climbers.json",
   "duration_per_rep": "1 second per knee drive",
-  "skateboarding_benefit": "builds core endurance and hip flexor power for ollies and board manipulation",
   "beginner": "20 total (light band)",
   "intermediate": "30 total (medium band)",
-  "advanced": "40 total (heavy band)"
+  "advanced": "40 total (heavy band)",
+  "benefit": "builds core endurance and hip flexor power for ollies and board manipulation"
 }

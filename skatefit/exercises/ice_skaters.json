@@ -20,8 +20,8 @@
   "video_file": "ice_skaters",
   "json_file": "ice_skaters.json",
   "duration_per_rep": "explosive takeoff, soft 2-second landing",
-  "skateboarding_benefit": "mimics pumping motion for generating speed in transitions and bowls",
   "beginner": "10 jumps each side",
   "intermediate": "12 jumps each side",
-  "advanced": "15 jumps each side"
+  "advanced": "15 jumps each side",
+  "benefit": "mimics pumping motion for generating speed in transitions and bowls"
 }

@@ -17,8 +17,8 @@
   "video_file": "calf_wall_stretch",
   "json_file": "calf_wall_stretch.json",
   "duration_per_rep": "hold 15-45 seconds",
-  "skateboarding_benefit": "improves ankle mobility for better stance depth and push-off power",
   "beginner": "Hold 15 s/side",
   "intermediate": "Hold 30 s/side",
-  "advanced": "Hold 45 s/side"
+  "advanced": "Hold 45 s/side",
+  "benefit": "improves ankle mobility for better stance depth and push-off power"
 }

@@ -19,8 +19,8 @@
   "video_file": "weighted_lunges",
   "json_file": "weighted_lunges.json",
   "duration_per_rep": "3-4 seconds",
-  "skateboarding_benefit": "builds single-leg strength for pushing and landing stability",
   "beginner": "8 reps/side (light DBs)",
   "intermediate": "10 reps/side (moderate DBs)",
-  "advanced": "12 reps/side (heavier DBs)"
+  "advanced": "12 reps/side (heavier DBs)",
+  "benefit": "builds single-leg strength for pushing and landing stability"
 }

@@ -19,8 +19,8 @@
   "video_file": "pigeon_bridges",
   "json_file": "pigeon_bridges.json",
   "duration_per_rep": "3-4 seconds",
-  "skateboarding_benefit": "addresses stance imbalances and improves hip mobility for better board control",
-  "beginner": "8–10 reps each side (1 round)",
-  "intermediate": "10–12 reps each side (2 rounds)",
-  "advanced": "12–15 reps each side (2 rounds)"
+  "beginner": "8\u201310 reps each side (1 round)",
+  "intermediate": "10\u201312 reps each side (2 rounds)",
+  "advanced": "12\u201315 reps each side (2 rounds)",
+  "benefit": "addresses stance imbalances and improves hip mobility for better board control"
 }

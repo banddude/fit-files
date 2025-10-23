@@ -19,8 +19,8 @@
   "video_file": "single_leg_bounds",
   "json_file": "single_leg_bounds.json",
   "duration_per_rep": "explosive takeoff, 2-second landing",
-  "skateboarding_benefit": "develops explosive power for ollies and single-leg landing control",
   "beginner": "6 bounds each leg",
   "intermediate": "8 bounds each leg",
-  "advanced": "10 bounds each leg"
+  "advanced": "10 bounds each leg",
+  "benefit": "develops explosive power for ollies and single-leg landing control"
 }

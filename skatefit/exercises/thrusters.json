@@ -19,8 +19,8 @@
   "video_file": "thrusters",
   "json_file": "thrusters.json",
   "duration_per_rep": "3-4 seconds",
-  "skateboarding_benefit": "develops explosive power for ollies and full-body coordination",
   "beginner": "8 reps (light DBs)",
   "intermediate": "10 reps (moderate DBs)",
-  "advanced": "12 reps (heavy DBs)"
+  "advanced": "12 reps (heavy DBs)",
+  "benefit": "develops explosive power for ollies and full-body coordination"
 }

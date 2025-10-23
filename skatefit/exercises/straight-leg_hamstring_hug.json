@@ -18,8 +18,8 @@
   "video_file": "straight_leg_hamstring_hug",
   "json_file": "straight_leg_hamstring_hug.json",
   "duration_per_rep": "hold 15-45 seconds",
-  "skateboarding_benefit": "restores hamstring flexibility after crouched skating position",
   "beginner": "Hold 15 s/side",
   "intermediate": "Hold 30 s/side",
-  "advanced": "Hold 45 s/side"
+  "advanced": "Hold 45 s/side",
+  "benefit": "restores hamstring flexibility after crouched skating position"
 }

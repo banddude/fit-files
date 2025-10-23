@@ -19,8 +19,8 @@
   "video_file": "sitting_bench_pigeons_and_knee_hugs",
   "json_file": "sitting_bench_pigeons_and_knee_hugs.json",
   "duration_per_rep": "hold 20-45 seconds each position",
-  "skateboarding_benefit": "releases hip tension from asymmetrical skating stance and promotes recovery",
   "beginner": "Hold 20 s/side",
   "intermediate": "Hold 30 s/side",
-  "advanced": "Hold 45 s/side"
+  "advanced": "Hold 45 s/side",
+  "benefit": "releases hip tension from asymmetrical skating stance and promotes recovery"
 }

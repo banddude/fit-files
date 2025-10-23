@@ -18,8 +18,8 @@
   "video_file": "hip_flexor_stretch",
   "json_file": "hip_flexor_stretch.json",
   "duration_per_rep": "hold 20-45 seconds",
-  "skateboarding_benefit": "releases hip flexor tightness from crouched skating stance",
   "beginner": "Hold 20 s/side",
   "intermediate": "Hold 30 s/side",
-  "advanced": "Hold 45 s/side"
+  "advanced": "Hold 45 s/side",
+  "benefit": "releases hip flexor tightness from crouched skating stance"
 }

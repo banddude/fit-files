@@ -18,8 +18,8 @@
   "video_file": "1_foot_balance_weight_press",
   "json_file": "1_foot_balance_weight_press.json",
   "duration_per_rep": "2-3 seconds per press",
-  "skateboarding_benefit": "improves balance during complex movements and trick execution",
-  "beginner": "8 reps/side (2×5–10 lb)",
-  "intermediate": "10 reps/side (2×10–15 lb)",
-  "advanced": "12 reps/side (2×15–20 lb)"
+  "beginner": "8 reps/side (2\u00d75\u201310 lb)",
+  "intermediate": "10 reps/side (2\u00d710\u201315 lb)",
+  "advanced": "12 reps/side (2\u00d715\u201320 lb)",
+  "benefit": "improves balance during complex movements and trick execution"
 }

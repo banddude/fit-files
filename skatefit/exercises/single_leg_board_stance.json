@@ -19,8 +19,8 @@
   "video_file": "single_leg_board_stance",
   "json_file": "single_leg_board_stance.json",
   "duration_per_rep": "hold for 20-45 seconds",
-  "skateboarding_benefit": "directly mimics skateboard balance and improves board control precision",
   "beginner": "20 seconds each leg",
   "intermediate": "30 seconds each leg",
-  "advanced": "45 seconds each leg"
+  "advanced": "45 seconds each leg",
+  "benefit": "directly mimics skateboard balance and improves board control precision"
 }

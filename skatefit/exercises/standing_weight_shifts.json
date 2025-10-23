@@ -19,8 +19,8 @@
   "video_file": "standing_weight_shifts",
   "json_file": "standing_weight_shifts.json",
   "duration_per_rep": "2-3 seconds per shift",
-  "skateboarding_benefit": "develops weight transfer skills essential for pumping and carving",
   "beginner": "10 shifts each way",
   "intermediate": "12 shifts each way",
-  "advanced": "15 shifts each way"
+  "advanced": "15 shifts each way",
+  "benefit": "develops weight transfer skills essential for pumping and carving"
 }

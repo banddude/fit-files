@@ -19,8 +19,8 @@
   "video_file": "squat_calf_raise_hold",
   "json_file": "squat_calf_raise_hold.json",
   "duration_per_rep": "15 second hold",
-  "skateboarding_benefit": "builds explosive pop power for ollies and technical tricks",
   "beginner": "10 sec hold (2 rounds)",
   "intermediate": "12 sec hold (2 rounds)",
-  "advanced": "15 sec hold (3 rounds)"
+  "advanced": "15 sec hold (3 rounds)",
+  "benefit": "builds explosive pop power for ollies and technical tricks"
 }

@@ -18,8 +18,8 @@
   "video_file": "ankle_circles",
   "json_file": "ankle_circles.json",
   "duration_per_rep": "2-3 seconds per circle",
-  "skateboarding_benefit": "improves board feel and push-off efficiency",
   "beginner": "10 each direction/foot (1 round)",
   "intermediate": "10 each direction/foot (2 rounds)",
-  "advanced": "12 each direction/foot (2 rounds)"
+  "advanced": "12 each direction/foot (2 rounds)",
+  "benefit": "improves board feel and push-off efficiency"
 }

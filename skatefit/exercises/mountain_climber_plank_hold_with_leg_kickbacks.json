@@ -19,8 +19,8 @@
   "video_file": "mountain_climber_plank_hold_leg_kickbacks",
   "json_file": "mountain_climber_plank_hold_leg_kickbacks.json",
   "duration_per_rep": "controlled leg extension and return",
-  "skateboarding_benefit": "builds core endurance and hip strength for sustained board control during technical maneuvers",
   "beginner": "15 total reps (2 rounds)",
   "intermediate": "18 total reps (2 rounds)",
-  "advanced": "20 total reps (3 rounds)"
+  "advanced": "20 total reps (3 rounds)",
+  "benefit": "builds core endurance and hip strength for sustained board control during technical maneuvers"
 }

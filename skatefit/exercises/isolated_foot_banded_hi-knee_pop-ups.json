@@ -19,8 +19,8 @@
   "video_file": "isolated_foot_banded_hi_knee_pop_ups",
   "json_file": "isolated_foot_banded_hi_knee_pop_ups.json",
   "duration_per_rep": "explosive drive up, controlled descent",
-  "skateboarding_benefit": "perfects ollie mechanics and develops unilateral explosive power for trick consistency",
   "beginner": "10 each side (2 rounds)",
   "intermediate": "12 each side (2 rounds)",
-  "advanced": "15 each side (3 rounds)"
+  "advanced": "15 each side (3 rounds)",
+  "benefit": "perfects ollie mechanics and develops unilateral explosive power for trick consistency"
 }

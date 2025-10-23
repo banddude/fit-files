@@ -18,8 +18,8 @@
   "video_file": "calf_and_ankle_stretch",
   "json_file": "calf_and_ankle_stretch.json",
   "duration_per_rep": "hold 20-45 seconds",
-  "skateboarding_benefit": "comprehensive recovery for lower leg tension and ankle mobility",
   "beginner": "Hold 20 s/side",
   "intermediate": "Hold 30 s/side",
-  "advanced": "Hold 45 s/side"
+  "advanced": "Hold 45 s/side",
+  "benefit": "comprehensive recovery for lower leg tension and ankle mobility"
 }

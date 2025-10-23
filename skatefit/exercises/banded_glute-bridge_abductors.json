@@ -18,8 +18,8 @@
   "video_file": "banded_glute_bridge_abductors",
   "json_file": "banded_glute_bridge_abductors.json",
   "duration_per_rep": "3-4 seconds",
-  "skateboarding_benefit": "develops hip stability for better board control and injury prevention",
   "beginner": "15 reps (1 round)",
   "intermediate": "15 reps (2 rounds)",
-  "advanced": "20 reps (2 rounds)"
+  "advanced": "20 reps (2 rounds)",
+  "benefit": "develops hip stability for better board control and injury prevention"
 }

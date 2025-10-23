@@ -19,8 +19,8 @@
   "video_file": "banded_crab_squat_leaps",
   "json_file": "banded_crab_squat_leaps.json",
   "duration_per_rep": "explosive lateral jump with squat hold",
-  "skateboarding_benefit": "develops lateral agility and explosive power for carving and obstacle navigation",
   "beginner": "15 total jumps (2 rounds)",
   "intermediate": "18 total jumps (2 rounds)",
-  "advanced": "20 total jumps (3 rounds)"
+  "advanced": "20 total jumps (3 rounds)",
+  "benefit": "develops lateral agility and explosive power for carving and obstacle navigation"
 }

@@ -18,8 +18,8 @@
   "video_file": "lateral_banded_walk",
   "json_file": "lateral_banded_walk.json",
   "duration_per_rep": "2-3 seconds per step",
-  "skateboarding_benefit": "improves lateral stability for carving and board control",
   "beginner": "12 steps each way (light band)",
   "intermediate": "15 steps each way (medium band)",
-  "advanced": "20 steps each way (heavy band)"
+  "advanced": "20 steps each way (heavy band)",
+  "benefit": "improves lateral stability for carving and board control"
 }

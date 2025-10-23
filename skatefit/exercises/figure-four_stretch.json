@@ -18,8 +18,8 @@
   "video_file": "figure_four_stretch",
   "json_file": "figure_four_stretch.json",
   "duration_per_rep": "hold 15-45 seconds",
-  "skateboarding_benefit": "restores hip balance from asymmetrical skating stance",
   "beginner": "Hold 15 s/side",
   "intermediate": "Hold 30 s/side",
-  "advanced": "Hold 45 s/side"
+  "advanced": "Hold 45 s/side",
+  "benefit": "restores hip balance from asymmetrical skating stance"
 }

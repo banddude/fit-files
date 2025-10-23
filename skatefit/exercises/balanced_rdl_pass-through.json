@@ -19,8 +19,8 @@
   "video_file": "balanced_rdl_pass_through",
   "json_file": "balanced_rdl_pass_through.json",
   "duration_per_rep": "4-6 seconds per rep",
-  "skateboarding_benefit": "enhances dynamic balance and coordination for complex maneuvers",
   "beginner": "6 reps/side (5 lb dumbbell)",
   "intermediate": "8 reps/side (10 lb dumbbell)",
-  "advanced": "10 reps/side (15 lb dumbbell)"
+  "advanced": "10 reps/side (15 lb dumbbell)",
+  "benefit": "enhances dynamic balance and coordination for complex maneuvers"
 }

@@ -19,8 +19,8 @@
   "video_file": "knee_hug_turns",
   "json_file": "knee_hug_turns.json",
   "duration_per_rep": "4-5 seconds",
-  "skateboarding_benefit": "prepares body for rotational movements in tricks and transitions",
-  "beginner": "8–10 reps each side (1 round)",
+  "beginner": "8\u201310 reps each side (1 round)",
   "intermediate": "10 reps each side (2 rounds)",
-  "advanced": "12 reps each side (2 rounds)"
+  "advanced": "12 reps each side (2 rounds)",
+  "benefit": "prepares body for rotational movements in tricks and transitions"
 }

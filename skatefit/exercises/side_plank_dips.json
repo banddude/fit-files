@@ -18,8 +18,8 @@
   "video_file": "side_plank_dips",
   "json_file": "side_plank_dips.json",
   "duration_per_rep": "2-3 seconds per dip",
-  "skateboarding_benefit": "builds lateral core stability for carving and rail slides",
   "beginner": "10 reps each side",
-  "intermediate": "12–15 reps each side",
-  "advanced": "15–20 reps each side"
+  "intermediate": "12\u201315 reps each side",
+  "advanced": "15\u201320 reps each side",
+  "benefit": "builds lateral core stability for carving and rail slides"
 }

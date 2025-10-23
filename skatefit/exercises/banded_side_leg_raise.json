@@ -18,8 +18,8 @@
   "video_file": "banded_side_leg_raise",
   "json_file": "banded_side_leg_raise.json",
   "duration_per_rep": "2-3 seconds up, 2 seconds down",
-  "skateboarding_benefit": "strengthens lateral stability for turns and carves",
   "beginner": "10 reps/side (light band)",
   "intermediate": "12 reps/side (medium band)",
-  "advanced": "15 reps/side (heavy band)"
+  "advanced": "15 reps/side (heavy band)",
+  "benefit": "strengthens lateral stability for turns and carves"
 }

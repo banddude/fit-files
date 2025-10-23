@@ -18,8 +18,8 @@
   "video_file": "weighted_single_leg_balance_hold",
   "json_file": "weighted_single_leg_balance_hold.json",
   "duration_per_rep": "hold 20-45 seconds",
-  "skateboarding_benefit": "improves board control and landing stability",
-  "beginner": "20 s/side (2×5 lb)",
-  "intermediate": "30 s/side (2×10 lb)",
-  "advanced": "45 s/side (2×15 lb)"
+  "beginner": "20 s/side (2\u00d75 lb)",
+  "intermediate": "30 s/side (2\u00d710 lb)",
+  "advanced": "45 s/side (2\u00d715 lb)",
+  "benefit": "improves board control and landing stability"
 }

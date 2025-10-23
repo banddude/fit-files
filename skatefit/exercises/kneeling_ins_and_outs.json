@@ -19,8 +19,8 @@
   "video_file": "kneeling_ins_and_outs",
   "json_file": "kneeling_ins_and_outs.json",
   "duration_per_rep": "3-4 seconds",
-  "skateboarding_benefit": "improves hip mobility for deeper stances and lateral movements",
   "beginner": "10 reps each side (1 round)",
-  "intermediate": "10–12 reps each side (2 rounds)",
-  "advanced": "12–15 reps each side (2 rounds)"
+  "intermediate": "10\u201312 reps each side (2 rounds)",
+  "advanced": "12\u201315 reps each side (2 rounds)",
+  "benefit": "improves hip mobility for deeper stances and lateral movements"
 }

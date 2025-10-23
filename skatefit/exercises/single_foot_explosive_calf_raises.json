@@ -18,8 +18,8 @@
   "video_file": "single_foot_explosive_calf_raises",
   "json_file": "single_foot_explosive_calf_raises.json",
   "duration_per_rep": "explosive upward, controlled descent",
-  "skateboarding_benefit": "develops explosive pop power and single-leg stability for consistent trick execution",
   "beginner": "10 each leg (2 rounds)",
   "intermediate": "12 each leg (2 rounds)",
-  "advanced": "15 each leg (3 rounds)"
+  "advanced": "15 each leg (3 rounds)",
+  "benefit": "develops explosive pop power and single-leg stability for consistent trick execution"
 }
