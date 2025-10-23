@@ -740,5 +740,112 @@
         "advanced": "10 circles each direction/foot"
       }
     ]
+  },
+  {
+    "name": "Balance & Coordination",
+    "icon": "figure.mind.and.body",
+    "color": "teal",
+    "exercises": [
+      {
+        "section": "Warm-up",
+        "move": "Standing weight shifts",
+        "description": "Shift weight from one foot to the other in skateboarding stance to prepare for balance and transitions",
+        "detailed_description": "This skateboard-specific warm-up exercise mimics the weight transfer patterns fundamental to board control while activating the body awareness system and balance muscles. Begin in a skateboarding stance with feet positioned as you would on a board, then slowly shift your weight from one foot to the other while maintaining balance and control. Focus on feeling the weight distribution change and the subtle muscle turning ons required to maintain stability during the transfer. This exercise directly prepares your muscle coordination system for the constant weight shifts required in skateboarding, including pumping for speed, carving turns, and preparing for tricks. The movement also activates the ankle stabilizers, outer hip muscles, and core muscles that work together to maintain balance during dynamic skateboarding movements. Regular practice of weight shifts improves body awareness and balance reactions that are essential for progressing in skateboarding and preventing falls. Keep the movements slow and controlled to maximize the body awareness benefits and focus on smooth, fluid weight transfers rather than abrupt shifts.",
+        "json_file": "standing_weight_shifts.json",
+        "video_file": "standing_weight_shifts",
+        "beginner": "10 reps/side",
+        "intermediate": "12 reps/side",
+        "advanced": "15 reps/side"
+      },
+      {
+        "section": "Warm-up",
+        "move": "Ankle circles",
+        "description": "Sit or stand, lift one foot off the ground, rotate the ankle in big circles clockwise then counterclockwise",
+        "detailed_description": "This mobility exercise targets ankle joint range of motion and activates the small foot muscles crucial for skateboard control. Begin in a seated or standing position with good posture, then lift one foot slightly off the ground. Create large, controlled circular motions with your ankle, focusing on moving through the full range of motion in both directions. Start with slow, deliberate circles to warm up the joint capsule and surrounding tissues. This exercise is particularly important for skateboarders as ankle mobility directly impacts board feel, push-off efficiency, and landing mechanics. Restricted ankle mobility can lead to bad movement patterns up the your whole body, affecting knee and hip function. Take your time with each circle, emphasizing the end ranges of pulling your toes up toward your shins, pointing your toes down, turning your foot inward, and turning your foot outward to maintain optimal joint health and skateboarding performance.",
+        "json_file": "ankle_circles.json",
+        "video_file": "ankle_circles",
+        "beginner": "10 each direction/foot",
+        "intermediate": "12 each direction/foot",
+        "advanced": "15 each direction/foot"
+      },
+      {
+        "section": "Main",
+        "move": "Single leg board stance",
+        "description": "Practice single-leg balance on a balance board to mimic skateboard control and stability",
+        "detailed_description": "This advanced balance training exercise specifically targets single-leg stability and body awareness awareness using an unstable surface that closely mimics skateboard control demands. Begin standing on a balance board or wobble board with both feet, then carefully lift one leg while maintaining balance on the unstable surface. The balance board creates constant perturbations that challenge your ankle, knee, and hip muscles while forcing rapid muscle coordination adjustments similar to those required during skateboarding. This exercise directly transfers to improved board control, especially for manuals, single-leg tricks, and maintaining balance during challenging skateboarding scenarios. The unstable surface trains your balance system to make quick, precise adjustments that are essential for skateboarding progression and injury prevention. Single-leg training on an unstable surface is particularly beneficial as it addresses the single-side demands of skateboarding while challenging the balance system in a skateboard-specific way. Focus on maintaining steady posture and making small, controlled adjustments rather than large corrections, as this develops the subtle balance control needed for advanced skateboarding.",
+        "json_file": "single_leg_board_stance.json",
+        "video_file": "single_leg_board_stance",
+        "beginner": "20 s hold/leg",
+        "intermediate": "30 s hold/leg",
+        "advanced": "45 s hold/leg"
+      },
+      {
+        "section": "Main",
+        "move": "Weighted single-leg balance hold",
+        "description": "Stand on one leg holding weights in each hand, keep torso upright and core engaged for the duration",
+        "detailed_description": "This static stability exercise develops the deep balance muscles throughout the your whole body while improving body awareness awareness crucial for skateboard control and landing mechanics. Stand on one leg while holding dumbbells in both hands, maintaining an upright torso position with shoulders square and core fully engaged. The added weight challenges your balance system by raising the center of gravity and requiring greater muscular working together to maintain stability. This exercise directly translates to improved board control during stationary balance challenges, manual pads, and one-footed skating scenarios common in street and transition skateboarding. The sustained muscle turning on develops the postural endurance needed for long skating sessions while enhancing the automatic balance reactions essential for preventing falls and injuries. Focus on maintaining steady breathing and avoid excessive swaying or bad movement patterns - small adjustments are normal and beneficial for training your balance system.",
+        "json_file": "weighted_single_leg_balance_hold.json",
+        "video_file": "weighted_single_leg_balance_hold",
+        "beginner": "15 s/leg (light weight)",
+        "intermediate": "25 s/leg (moderate weight)",
+        "advanced": "35 s/leg (heavy weight)"
+      },
+      {
+        "section": "Main",
+        "move": "1 foot balance weight press",
+        "description": "Single-leg stance, alternating overhead presses.",
+        "detailed_description": "This challenging combination exercise targets single-leg stability, core strength, and shoulder mobility while integrating multiple movement demands that directly translate to improved skateboarding balance and control. Begin standing on one leg while holding dumbbells in both hands at shoulder height, engaging your core and focusing on a fixed point for balance. Perform alternating overhead presses while maintaining the single-leg stance, pressing one dumbbell overhead while keeping the other at shoulder height. The single-leg position challenges your balance system and forces deep stabilizer muscle turning on throughout your your whole body, while the overhead pressing motion develops functional upper body strength and core stability. This exercise specifically improves the ability to maintain balance while performing complex movements, essential for skateboarding tricks that require precise balance control during dynamic upper body movements. The single-side stance also builds the ankle, knee, and hip stability crucial for single-leg skateboarding maneuvers and landing control. Focus on maintaining steady posture and avoid compensating with excessive upper body movement or allowing the standing knee to collapse inward.",
+        "json_file": "1_foot_balance_weight_press.json",
+        "video_file": "1_foot_balance_weight_press",
+        "beginner": "8 reps/side (light DBs)",
+        "intermediate": "10 reps/side (moderate DBs)",
+        "advanced": "12 reps/side (heavy DBs)"
+      },
+      {
+        "section": "Main",
+        "move": "Balance board tilts",
+        "description": "Rock side-to-side on balance board to develop proprioception and board control skills",
+        "detailed_description": "This skateboard-specific balance training exercise develops lateral stability, body awareness awareness, and the subtle weight shift control essential for advanced skateboarding performance. Begin standing on a balance board with feet positioned similarly to your skateboard stance, then initiate controlled side-to-side tilting movements by shifting your weight from rail to rail. The unstable surface forces constant micro-adjustments from your ankle, knee, and hip muscles while training the balance reactions needed for skateboard control. This exercise directly transfers to improved board control, especially for carving, pumping transitions, and maintaining balance during challenging skating scenarios. The tilting motion specifically trains the lateral weight shift patterns used in skateboarding while building confidence and control on unstable surfaces. Balance board training also enhances body awareness feedback and reaction time, leading to quicker balance recovery and reduced fall risk during skating. Focus on smooth, controlled tilts rather than aggressive movements, gradually increasing the range of motion as your balance and control improve. This develops the subtle balance skills needed for advanced skateboarding progression.",
+        "json_file": "balance_board_tilts.json",
+        "video_file": "balance_board_tilts",
+        "beginner": "10 tilts each direction",
+        "intermediate": "15 tilts each direction",
+        "advanced": "20 tilts each direction"
+      },
+      {
+        "section": "Main",
+        "move": "Balanced RDL pass-through",
+        "description": "Hinge on one leg, lower your torso and pass a dumbbell under the lifted leg, then stand back up",
+        "detailed_description": "This advanced functional exercise combines single-leg Romanian deadlift mechanics with dynamic coordination challenges that directly improve skateboarding balance and core stability. Begin standing on one leg while holding a dumbbell in the opposite hand, then hinge at the hip to lower your torso while extending the free leg behind you for counterbalance. At the bottom position, pass the dumbbell under the elevated leg to the other hand, then reverse the movement to return to standing. This exercise targets the back muscles including hamstrings and glutes while challenging proprioception and inter-limb coordination essential for complex skateboarding maneuvers. The movement mimics the dynamic balance adjustments required when navigating obstacles or performing tricks that require shifting weight and maintaining control in unstable positions. Focus on maintaining a straight line from your head to the elevated heel and control the dumbbell throughout the entire range of motion to maximize stability benefits.",
+        "json_file": "balanced_rdl_pass_through.json",
+        "video_file": "balanced_rdl_pass_through",
+        "beginner": "8 reps/leg (light med ball)",
+        "intermediate": "10 reps/leg (medium med ball)",
+        "advanced": "12 reps/leg (heavy med ball)"
+      },
+      {
+        "section": "Main",
+        "move": "Single leg bounds",
+        "description": "Explosive single-leg hops to build power and stability for skateboarding landings and ollies",
+        "detailed_description": "This explosive jumping exercise develops single-leg power, landing mechanics, and the explosive strength needed for skateboarding tricks like ollies, jumps, and technical maneuvers. Begin standing on one leg with good posture and core engagement, then explosively hop forward, focusing on maximum distance while maintaining balance and control. Land softly on the same leg with knee bent to absorb impact, then immediately prepare for the next bound. This exercise specifically trains the single-side power and landing control essential for skateboarding, where many movements require explosive single-leg actions and stable landings. The bounding motion develops the fast-twitch muscle fibers and muscle coordination coordination needed for powerful skateboarding movements while improving proprioception and balance reactions. Single-leg bounds also strengthen the entire your whole body from ankle to hip, addressing the stability and strength imbalances common from skateboarding's asymmetrical demands. Focus on quality over quantity - each bound should be explosive and controlled with proper landing mechanics to maximize the training benefits and reduce injury risk.",
+        "json_file": "single_leg_bounds.json",
+        "video_file": "single_leg_bounds",
+        "beginner": "6 bounds/leg",
+        "intermediate": "8 bounds/leg",
+        "advanced": "10 bounds/leg"
+      },
+      {
+        "section": "Cool-down",
+        "move": "Flamingo stretch",
+        "description": "Standing quad stretch to release tension in the front of thighs from skateboarding stance",
+        "detailed_description": "This classic standing quadriceps stretch targets the front thigh muscles that often become tight from the bent-knee positions and explosive movements common in skateboarding. Stand on one leg and bend the other knee, grasping the ankle or foot behind you and gently pulling the heel toward your glutes while maintaining balance and proper alignment. Keep your knees close together and avoid arching your lower back excessively during the stretch. This stretch is essential for post-skate recovery as the quadriceps muscles work intensively during the crouched skateboarding stance, landing mechanics, and the explosive knee extension needed for ollies and jumps. Tight quadriceps can contribute to knee pain, altered movement patterns, and reduced hip mobility, making this stretch crucial for maintaining optimal lower body function and skateboarding performance. The standing balance component also challenges proprioception and single-leg stability, which provides additional benefits for skateboard control and balance. Focus on gentle, sustained stretching while maintaining steady balance on the supporting leg, using a wall or other support if needed to maintain proper form and maximize the stretch benefits.",
+        "json_file": "flamingo_stretch.json",
+        "video_file": "flamingo_stretch",
+        "beginner": "20 s/side",
+        "intermediate": "30 s/side",
+        "advanced": "45 s/side"
+      }
+    ],
+    "id": "A7F3B2D1-9C4E-4A3B-8F1D-2E5C6B7A8D9E"
   }
 ]

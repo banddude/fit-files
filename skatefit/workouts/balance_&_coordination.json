@@ -1,0 +1,71 @@
+{
+  "name": "Balance & Coordination",
+  "icon": "figure.mind.and.body",
+  "color": "teal",
+  "exercises": [
+    {
+      "exercise_id": "standing_weight_shifts",
+      "beginner": "10 reps/side",
+      "intermediate": "12 reps/side",
+      "advanced": "15 reps/side",
+      "section": "Warm-up"
+    },
+    {
+      "exercise_id": "ankle_circles",
+      "beginner": "10 each direction/foot",
+      "intermediate": "12 each direction/foot",
+      "advanced": "15 each direction/foot",
+      "section": "Warm-up"
+    },
+    {
+      "exercise_id": "single_leg_board_stance",
+      "beginner": "20 s hold/leg",
+      "intermediate": "30 s hold/leg",
+      "advanced": "45 s hold/leg",
+      "section": "Main"
+    },
+    {
+      "exercise_id": "weighted_single-leg_balance_hold",
+      "beginner": "15 s/leg (light weight)",
+      "intermediate": "25 s/leg (moderate weight)",
+      "advanced": "35 s/leg (heavy weight)",
+      "section": "Main"
+    },
+    {
+      "exercise_id": "1_foot_balance_weight_press",
+      "beginner": "8 reps/side (light DBs)",
+      "intermediate": "10 reps/side (moderate DBs)",
+      "advanced": "12 reps/side (heavy DBs)",
+      "section": "Main"
+    },
+    {
+      "exercise_id": "balance_board_tilts",
+      "beginner": "10 tilts each direction",
+      "intermediate": "15 tilts each direction",
+      "advanced": "20 tilts each direction",
+      "section": "Main"
+    },
+    {
+      "exercise_id": "balanced_rdl_pass-through",
+      "beginner": "8 reps/leg (light med ball)",
+      "intermediate": "10 reps/leg (medium med ball)",
+      "advanced": "12 reps/leg (heavy med ball)",
+      "section": "Main"
+    },
+    {
+      "exercise_id": "single_leg_bounds",
+      "beginner": "6 bounds/leg",
+      "intermediate": "8 bounds/leg",
+      "advanced": "10 bounds/leg",
+      "section": "Main"
+    },
+    {
+      "exercise_id": "flamingo_stretch",
+      "beginner": "20 s/side",
+      "intermediate": "30 s/side",
+      "advanced": "45 s/side",
+      "section": "Cool-down"
+    }
+  ],
+  "id": "A7F3B2D1-9C4E-4A3B-8F1D-2E5C6B7A8D9E"
+}
