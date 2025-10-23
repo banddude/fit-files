@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Full Body Workout",
+    "icon": "figure.strengthtraining.traditional",
+    "color": "blue",
+    "exercises": [
+      {
+        "exercise_id": "lay-back_knee_hugs",
+        "beginner": "10 reps each side (1 round)",
+        "intermediate": "10 reps each side (2 rounds)",
+        "advanced": "12 reps each side (2 rounds)"
+      },
+      {
+        "exercise_id": "straight-leg_hugs",
+        "beginner": "10 reps each side (1 round)",
+        "intermediate": "10 reps each side (2 rounds)",
+        "advanced": "12 reps each side (2 rounds)"
+      },
+      {
+        "exercise_id": "glute_bridges",
+        "beginner": "12 reps (1 round)",
+        "intermediate": "12 reps (2 rounds)",
+        "advanced": "15 reps (2 rounds)"
+      },
+      {
+        "exercise_id": "banded_glute-bridge_abductors",
+        "beginner": "15 reps (1 round)",
+        "intermediate": "15 reps (2 rounds)",
+        "advanced": "20 reps (2 rounds)"
+      },
+      {
+        "exercise_id": "ankle_circles",
+        "beginner": "10 each direction/foot (1 round)",
+        "intermediate": "10 each direction/foot (2 rounds)",
+        "advanced": "12 each direction/foot (2 rounds)"
+      },
+      {
+        "exercise_id": "banded_ankle_flicks",
+        "beginner": "10 each direction/foot (1 round)",
+        "intermediate": "10 each direction/foot (2 rounds)",
+        "advanced": "12 each direction/foot (2 rounds)"
+      },
+      {
+        "exercise_id": "banded_knee_drives",
+        "beginner": "6 reps/side (light band)",
+        "intermediate": "8 reps/side (medium band)",
+        "advanced": "10 reps/side (heavy band)"
+      },
+      {
+        "exercise_id": "lateral_banded_walk",
+        "beginner": "12 steps each way (light band)",
+        "intermediate": "15 steps each way (medium band)",
+        "advanced": "20 steps each way (heavy band)"
+      },
+      {
+        "exercise_id": "balanced_rdl_pass-through",
+        "beginner": "6 reps/side (5 lb dumbbell)",
+        "intermediate": "8 reps/side (10 lb dumbbell)",
+        "advanced": "10 reps/side (15 lb dumbbell)"
+      },
+      {
+        "exercise_id": "banded_side_leg_raise",
+        "beginner": "10 reps/side (light band)",
+        "intermediate": "12 reps/side (medium band)",
+        "advanced": "15 reps/side (heavy band)"
+      },
+      {
+        "exercise_id": "weighted_single-leg_balance_hold",
+        "beginner": "20 s/side (2\u00d75 lb)",
+        "intermediate": "30 s/side (2\u00d710 lb)",
+        "advanced": "45 s/side (2\u00d715 lb)"
+      },
+      {
+        "exercise_id": "straight-leg_hamstring_hug",
+        "beginner": "Hold 15 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "calf_wall_stretch",
+        "beginner": "Hold 15 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "figure-four_stretch",
+        "beginner": "Hold 15 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "standing_crossed-leg_hamstring",
+        "beginner": "Hold 15 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      }
+    ]
+  },
+  {
+    "name": "Pop Power",
+    "icon": "bolt.fill",
+    "color": "yellow",
+    "exercises": [
+      {
+        "exercise_id": "squat_+_calf_raise_hold",
+        "beginner": "10 sec hold (2 rounds)",
+        "intermediate": "12 sec hold (2 rounds)",
+        "advanced": "15 sec hold (3 rounds)"
+      },
+      {
+        "exercise_id": "banded_side_jumps",
+        "beginner": "15 total jumps (2 rounds)",
+        "intermediate": "18 total jumps (2 rounds)",
+        "advanced": "20 total jumps (3 rounds)"
+      },
+      {
+        "exercise_id": "isolated_foot_banded_hi-knee_pop-ups",
+        "beginner": "10 each side (2 rounds)",
+        "intermediate": "12 each side (2 rounds)",
+        "advanced": "15 each side (3 rounds)"
+      },
+      {
+        "exercise_id": "jump_squats",
+        "beginner": "12 reps (2 rounds)",
+        "intermediate": "15 reps (2 rounds)",
+        "advanced": "15-20 reps (3 rounds)"
+      },
+      {
+        "exercise_id": "banded_crab_squat_leaps",
+        "beginner": "15 total jumps (2 rounds)",
+        "intermediate": "18 total jumps (2 rounds)",
+        "advanced": "20 total jumps (3 rounds)"
+      },
+      {
+        "exercise_id": "single_foot_explosive_calf_raises",
+        "beginner": "10 each leg (2 rounds)",
+        "intermediate": "12 each leg (2 rounds)",
+        "advanced": "15 each leg (3 rounds)"
+      },
+      {
+        "exercise_id": "weighted_step_ups",
+        "beginner": "8 each leg (15 lb weights)",
+        "intermediate": "10 each leg (20 lb weights)",
+        "advanced": "10-20 each leg (30 lb weights)"
+      },
+      {
+        "exercise_id": "alternating_step_ups_with_high_knees",
+        "beginner": "20 seconds (2 rounds)",
+        "intermediate": "25 seconds (2 rounds)",
+        "advanced": "30 seconds (3 rounds)"
+      },
+      {
+        "exercise_id": "isometric_single_foot_squat_holds",
+        "beginner": "6 reps each leg, 6 sec hold (10 lb assistance)",
+        "intermediate": "8 reps each leg, 8 sec hold (15 lb assistance)",
+        "advanced": "8-12 reps each leg, 10 sec hold (15 lb assistance)"
+      },
+      {
+        "exercise_id": "mountain_climber_plank_hold_with_leg_kickbacks",
+        "beginner": "15 total reps (2 rounds)",
+        "intermediate": "18 total reps (2 rounds)",
+        "advanced": "20 total reps (3 rounds)"
+      },
+      {
+        "exercise_id": "mountain_climber_burnout",
+        "beginner": "20 seconds all out (1 round)",
+        "intermediate": "25 seconds all out (1 round)",
+        "advanced": "30 seconds all out (1 round)"
+      }
+    ]
+  },
+  {
+    "name": "Mobility & Activation",
+    "icon": "figure.flexibility",
+    "color": "orange",
+    "exercises": [
+      {
+        "exercise_id": "kneeling_ins_and_outs",
+        "beginner": "10 reps each side (1 round)",
+        "intermediate": "10\u201312 reps each side (2 rounds)",
+        "advanced": "12\u201315 reps each side (2 rounds)"
+      },
+      {
+        "exercise_id": "knee_hug_turns",
+        "beginner": "8\u201310 reps each side (1 round)",
+        "intermediate": "10 reps each side (2 rounds)",
+        "advanced": "12 reps each side (2 rounds)"
+      },
+      {
+        "exercise_id": "heel_floor_bridges",
+        "beginner": "12 reps (1 round)",
+        "intermediate": "12\u201315 reps (2 rounds)",
+        "advanced": "15\u201320 reps (2 rounds)"
+      },
+      {
+        "exercise_id": "pigeon_bridges",
+        "beginner": "8\u201310 reps each side (1 round)",
+        "intermediate": "10\u201312 reps each side (2 rounds)",
+        "advanced": "12\u201315 reps each side (2 rounds)"
+      },
+      {
+        "exercise_id": "banded_glute_bridge_abductors",
+        "beginner": "15 reps (1 round)",
+        "intermediate": "15\u201320 reps (2 rounds)",
+        "advanced": "20\u201325 reps (2 rounds)"
+      },
+      {
+        "exercise_id": "banded_abductors_with_kickouts",
+        "beginner": "10 reps each side (1 round)",
+        "intermediate": "12 reps each side (2 rounds)",
+        "advanced": "15 reps each side (2 rounds)"
+      },
+      {
+        "exercise_id": "1_foot_heel_bridges",
+        "beginner": "8\u201310 reps each side (1 round)",
+        "intermediate": "10\u201312 reps each side (2 rounds)",
+        "advanced": "12\u201315 reps each side (2 rounds)"
+      }
+    ]
+  },
+  {
+    "name": "Strength",
+    "icon": "dumbbell.fill",
+    "color": "purple",
+    "exercises": [
+      {
+        "exercise_id": "thrusters",
+        "beginner": "8 reps (light DBs)",
+        "intermediate": "10 reps (moderate DBs)",
+        "advanced": "12 reps (heavy DBs)"
+      },
+      {
+        "exercise_id": "squat_hold_and_pulses",
+        "beginner": "20 s hold + 10 pulses",
+        "intermediate": "30 s hold + 15 pulses",
+        "advanced": "45 s hold + 20 pulses"
+      },
+      {
+        "exercise_id": "weighted_crab_walks",
+        "beginner": "10 steps forward + 10 back (light)",
+        "intermediate": "12 steps forward + 12 back (moderate)",
+        "advanced": "15 steps forward + 15 back (heavy)"
+      },
+      {
+        "exercise_id": "weighted_lunges",
+        "beginner": "8 reps/side (light DBs)",
+        "intermediate": "10 reps/side (moderate DBs)",
+        "advanced": "12 reps/side (heavier DBs)"
+      },
+      {
+        "exercise_id": "weighted_step_ups",
+        "beginner": "8 reps/side (box below knee)",
+        "intermediate": "10 reps/side (box at knee)",
+        "advanced": "12 reps/side (box at/above knee)"
+      },
+      {
+        "exercise_id": "weighted_side_2_side_abductors",
+        "beginner": "10 reps/side (light load)",
+        "intermediate": "12 reps/side (moderate load)",
+        "advanced": "15 reps/side (heavier load)"
+      },
+      {
+        "exercise_id": "1_foot_balance_weight_press",
+        "beginner": "8 reps/side (2\u00d75\u201310 lb)",
+        "intermediate": "10 reps/side (2\u00d710\u201315 lb)",
+        "advanced": "12 reps/side (2\u00d715\u201320 lb)"
+      },
+      {
+        "exercise_id": "kettle_bell_swings",
+        "beginner": "12 reps (light KB)",
+        "intermediate": "15\u201320 reps (moderate KB)",
+        "advanced": "20\u201325 reps (heavier KB)"
+      }
+    ]
+  },
+  {
+    "name": "Core & Stability",
+    "icon": "figure.core.training",
+    "color": "teal",
+    "exercises": [
+      {
+        "exercise_id": "side_plank_dips",
+        "beginner": "10 reps each side",
+        "intermediate": "12\u201315 reps each side",
+        "advanced": "15\u201320 reps each side"
+      },
+      {
+        "exercise_id": "banded_mountain_climbers",
+        "beginner": "20 total (light band)",
+        "intermediate": "30 total (medium band)",
+        "advanced": "40 total (heavy band)"
+      },
+      {
+        "exercise_id": "banded_side_clams",
+        "beginner": "12 reps each side",
+        "intermediate": "15 reps each side",
+        "advanced": "20 reps each side"
+      },
+      {
+        "exercise_id": "adductors_with_med_ball",
+        "beginner": "15 squeezes (light ball)",
+        "intermediate": "20 squeezes (moderate ball)",
+        "advanced": "25\u201330 squeezes (heavier ball)"
+      },
+      {
+        "exercise_id": "sitting_bench_pigeon_and_knee_hugs",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      }
+    ]
+  },
+  {
+    "name": "Pre-Skate Warm-Up",
+    "icon": "figure.skateboarding",
+    "color": "green",
+    "exercises": [
+      {
+        "exercise_id": "ankle_circles",
+        "beginner": "8 each direction/foot",
+        "intermediate": "10 each direction/foot",
+        "advanced": "12 each direction/foot"
+      },
+      {
+        "exercise_id": "ankle_rocks",
+        "beginner": "10 rocks forward/back",
+        "intermediate": "12 rocks forward/back",
+        "advanced": "15 rocks forward/back"
+      },
+      {
+        "exercise_id": "standing_weight_shifts",
+        "beginner": "10 shifts each way",
+        "intermediate": "12 shifts each way",
+        "advanced": "15 shifts each way"
+      },
+      {
+        "exercise_id": "knee_hug_turns",
+        "beginner": "6 reps each side",
+        "intermediate": "8 reps each side",
+        "advanced": "10 reps each side"
+      },
+      {
+        "exercise_id": "single_leg_board_stance",
+        "beginner": "20 seconds each leg",
+        "intermediate": "30 seconds each leg",
+        "advanced": "45 seconds each leg"
+      },
+      {
+        "exercise_id": "ice_skaters",
+        "beginner": "10 jumps each side",
+        "intermediate": "12 jumps each side",
+        "advanced": "15 jumps each side"
+      },
+      {
+        "exercise_id": "single_leg_bounds",
+        "beginner": "6 bounds each leg",
+        "intermediate": "8 bounds each leg",
+        "advanced": "10 bounds each leg"
+      },
+      {
+        "exercise_id": "lateral_banded_walk",
+        "beginner": "10 steps each way",
+        "intermediate": "12 steps each way",
+        "advanced": "15 steps each way"
+      },
+      {
+        "exercise_id": "calf_raises",
+        "beginner": "12 reps",
+        "intermediate": "15 reps",
+        "advanced": "20 reps"
+      },
+      {
+        "exercise_id": "balance_board_tilts",
+        "beginner": "10 tilts each direction",
+        "intermediate": "12 tilts each direction",
+        "advanced": "15 tilts each direction"
+      }
+    ]
+  },
+  {
+    "name": "Post-Skate Cool-Down",
+    "icon": "figure.cooldown",
+    "color": "cyan",
+    "exercises": [
+      {
+        "exercise_id": "calf_wall_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "calf_and_ankle_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "hip_flexor_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "standing_crossed-leg_hamstring",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "flamingo_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "figure-four_stretch",
+        "beginner": "Hold 20 s/side",
+        "intermediate": "Hold 30 s/side",
+        "advanced": "Hold 45 s/side"
+      },
+      {
+        "exercise_id": "ankle_circles",
+        "beginner": "6 circles each direction/foot",
+        "intermediate": "8 circles each direction/foot",
+        "advanced": "10 circles each direction/foot"
+      }
+    ]
+  }
+]
