@@ -4,8 +4,12 @@
   "description": "Deep squat position with calf raise hold, building foundational power for explosive skateboarding movements",
   "detailed_description": "This compound exercise combines squat strength with calf endurance, directly targeting the muscles used in ollie pop mechanics. Begin in a squat position with feet hip-width apart, lowering to approximately 90 degrees while maintaining chest up and weight evenly distributed. From this position, rise up onto your toes and hold the calf raise while maintaining the squat depth. This exercise builds the precise muscle coordination and strength needed for explosive skateboard pops, where the calves provide the initial snap while the legs drive the board upward. The sustained hold develops the time under tension strength crucial for powerful ollies and jump tricks. The combination teaches your body to generate force from the ground up, mimicking the exact mechanics of popping a skateboard. Focus on maintaining proper squat form while maximizing the calf raise height to build the explosive power transfer essential for advanced trick progression.",
   "section": "Warm-up",
-  "exercise_type": "strength",
-  "equipment": "none",
+  "exercise_type": [
+    "strength"
+  ],
+  "equipment": [
+    "none"
+  ],
   "target_muscles": [
     "quadriceps",
     "glutes",

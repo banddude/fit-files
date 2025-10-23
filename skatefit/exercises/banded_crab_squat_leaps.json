@@ -4,8 +4,12 @@
   "description": "Lateral squat jumps with band resistance, mimicking slalom movements for agility and lateral explosive power",
   "detailed_description": "This advanced lateral power exercise develops the side-to-side explosive strength and agility essential for skateboard carving, obstacle navigation, and complex trick sequences. Begin in a squat position with a resistance band around your thighs, then perform explosive lateral jumps from side to side while maintaining the squat depth throughout the movement. The continuous lateral movement pattern mimics the slalom-like motions used in skateboarding for carving, avoiding obstacles, and maintaining speed through technical sections. The band resistance challenges your hip abductors and glutes while the explosive jumping component builds the reactive strength needed for quick directional changes. This exercise is particularly beneficial for street skating where rapid lateral movements and agility are crucial for navigating technical spots and maintaining flow through complex terrain. The sustained squat position also builds the leg endurance needed for long skating sessions and technical manual sequences. Focus on explosive lateral drive while maintaining consistent squat depth and band tension throughout the entire set.",
   "section": "Main",
-  "exercise_type": "strength",
-  "equipment": "resistance band",
+  "exercise_type": [
+    "strength"
+  ],
+  "equipment": [
+    "resistance band"
+  ],
   "target_muscles": [
     "hip abductors",
     "glutes",

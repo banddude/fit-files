@@ -4,8 +4,12 @@
   "description": "Lie on your back, extend one leg straight up, grab behind your thigh just below the knee crease, pull gently",
   "detailed_description": "This exercise primarily targets hamstring flexibility, hip mobility, and back muscles turning on. Begin lying on your back with both legs extended flat on the floor. Slowly lift one leg straight up toward the ceiling, keeping the knee locked and foot flexed. Reach both hands behind the thigh just below the knee crease, avoiding pressure directly on the knee joint. Gently pull the leg toward your chest while maintaining the straight-leg position and keeping your opposite leg pressed firmly into the floor. This movement helps improve hamstring flexibility essential for skateboarding stance and reduces lower back tension by lengthening the back muscles. Focus on breathing deeply and avoid bouncing or forcing the stretch - let gravity and gentle pressure create the lengthening effect.",
   "section": "Warm-up",
-  "exercise_type": "mobility",
-  "equipment": "none",
+  "exercise_type": [
+    "mobility"
+  ],
+  "equipment": [
+    "none"
+  ],
   "target_muscles": [
     "hamstrings",
     "calves",
