@@ -21,5 +21,43 @@
   "beginner": "12 steps each way (light band)",
   "intermediate": "15 steps each way (medium band)",
   "advanced": "20 steps each way (heavy band)",
-  "benefit": "improves lateral stability for carving and board control"
+  "benefit": "improves lateral stability for carving and board control",
+  "duration_seconds": {
+    "beginner": 60,
+    "intermediate": 75,
+    "advanced": 100
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "per_unit": "step"
+    },
+    "beginner": {
+      "count": 12,
+      "unit": "steps",
+      "per": "way",
+      "equipment": {
+        "kind": "band",
+        "intensity": "light"
+      },
+      "total_seconds": 60
+    },
+    "intermediate": {
+      "count": 15,
+      "unit": "steps",
+      "per": "way",
+      "total_seconds": 75
+    },
+    "advanced": {
+      "count": 20,
+      "unit": "steps",
+      "per": "way",
+      "equipment": {
+        "kind": "band",
+        "intensity": "heavy"
+      },
+      "total_seconds": 100
+    }
+  }
 }

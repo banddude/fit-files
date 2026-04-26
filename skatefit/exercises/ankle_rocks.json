@@ -21,5 +21,32 @@
   "beginner": "10 rocks forward/back",
   "intermediate": "12 rocks forward/back",
   "advanced": "15 rocks forward/back",
-  "benefit": "prepares ankles for board control and balance adjustments"
+  "benefit": "prepares ankles for board control and balance adjustments",
+  "duration_seconds": {
+    "beginner": 25,
+    "intermediate": 30,
+    "advanced": 38
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "mode": "hold"
+    },
+    "beginner": {
+      "count": 10,
+      "unit": "rocks",
+      "total_seconds": 25
+    },
+    "intermediate": {
+      "count": 12,
+      "unit": "rocks",
+      "total_seconds": 30
+    },
+    "advanced": {
+      "count": 15,
+      "unit": "rocks",
+      "total_seconds": 38
+    }
+  }
 }

@@ -20,5 +20,44 @@
   "beginner": "12 reps",
   "intermediate": "15 reps",
   "advanced": "20 reps",
-  "benefit": "improves push-off power and ankle stability for board control"
+  "benefit": "improves push-off power and ankle stability for board control",
+  "duration_seconds": {
+    "beginner": 66,
+    "intermediate": 82,
+    "advanced": 110
+  },
+  "data": {
+    "dpr": {
+      "phases": [
+        {
+          "seconds": 2,
+          "seconds_high": 3,
+          "label": "up"
+        },
+        {
+          "seconds": 1,
+          "label": "hold"
+        },
+        {
+          "seconds": 2,
+          "label": "down"
+        }
+      ]
+    },
+    "beginner": {
+      "count": 12,
+      "unit": "reps",
+      "total_seconds": 66
+    },
+    "intermediate": {
+      "count": 15,
+      "unit": "reps",
+      "total_seconds": 82
+    },
+    "advanced": {
+      "count": 20,
+      "unit": "reps",
+      "total_seconds": 110
+    }
+  }
 }

@@ -21,5 +21,34 @@
   "beginner": "20 s hold + 10 pulses",
   "intermediate": "30 s hold + 15 pulses",
   "advanced": "45 s hold + 20 pulses",
-  "benefit": "builds endurance for deep skating stances and transition riding"
+  "benefit": "builds endurance for deep skating stances and transition riding",
+  "duration_seconds": {
+    "beginner": 30,
+    "intermediate": 45,
+    "advanced": 65
+  },
+  "data": {
+    "dpr": {
+      "seconds": 20,
+      "seconds_high": 45,
+      "mode": "hold",
+      "pulses": 10,
+      "pulses_high": 20
+    },
+    "beginner": {
+      "hold_seconds": 20,
+      "pulses": 10,
+      "total_seconds": 20
+    },
+    "intermediate": {
+      "hold_seconds": 30,
+      "pulses": 15,
+      "total_seconds": 30
+    },
+    "advanced": {
+      "hold_seconds": 45,
+      "pulses": 20,
+      "total_seconds": 45
+    }
+  }
 }

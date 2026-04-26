@@ -22,5 +22,32 @@
   "beginner": "20 seconds each leg",
   "intermediate": "30 seconds each leg",
   "advanced": "45 seconds each leg",
-  "benefit": "directly mimics skateboard balance and improves board control precision"
+  "benefit": "directly mimics skateboard balance and improves board control precision",
+  "duration_seconds": {
+    "beginner": 40,
+    "intermediate": 60,
+    "advanced": 90
+  },
+  "data": {
+    "dpr": {
+      "seconds": 20,
+      "seconds_high": 45,
+      "mode": "hold"
+    },
+    "beginner": {
+      "duration_seconds": 20,
+      "per": "leg",
+      "total_seconds": 40
+    },
+    "intermediate": {
+      "duration_seconds": 30,
+      "per": "leg",
+      "total_seconds": 60
+    },
+    "advanced": {
+      "duration_seconds": 45,
+      "per": "leg",
+      "total_seconds": 90
+    }
+  }
 }

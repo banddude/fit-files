@@ -20,5 +20,32 @@
   "beginner": "Hold 15 s/side",
   "intermediate": "Hold 30 s/side",
   "advanced": "Hold 45 s/side",
-  "benefit": "improves ankle mobility for better stance depth and push-off power"
+  "benefit": "improves ankle mobility for better stance depth and push-off power",
+  "duration_seconds": {
+    "beginner": 30,
+    "intermediate": 60,
+    "advanced": 90
+  },
+  "data": {
+    "dpr": {
+      "seconds": 15,
+      "seconds_high": 45,
+      "mode": "hold"
+    },
+    "beginner": {
+      "hold_seconds": 15,
+      "per": "side",
+      "total_seconds": 30
+    },
+    "intermediate": {
+      "hold_seconds": 30,
+      "per": "side",
+      "total_seconds": 60
+    },
+    "advanced": {
+      "hold_seconds": 45,
+      "per": "side",
+      "total_seconds": 90
+    }
+  }
 }

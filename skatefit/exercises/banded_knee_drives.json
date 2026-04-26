@@ -21,5 +21,50 @@
   "beginner": "6 reps/side (light band)",
   "intermediate": "8 reps/side (medium band)",
   "advanced": "10 reps/side (heavy band)",
-  "benefit": "builds explosive power for ollies and board manipulation"
+  "benefit": "builds explosive power for ollies and board manipulation",
+  "duration_seconds": {
+    "beginner": 48,
+    "intermediate": 64,
+    "advanced": 80
+  },
+  "data": {
+    "dpr": {
+      "phases": [
+        {
+          "seconds": 2,
+          "label": "up"
+        },
+        {
+          "seconds": 2,
+          "label": "down"
+        }
+      ]
+    },
+    "beginner": {
+      "count": 6,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "band",
+        "intensity": "light"
+      },
+      "total_seconds": 48
+    },
+    "intermediate": {
+      "count": 8,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 64
+    },
+    "advanced": {
+      "count": 10,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "band",
+        "intensity": "heavy"
+      },
+      "total_seconds": 80
+    }
+  }
 }

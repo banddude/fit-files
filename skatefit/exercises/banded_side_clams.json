@@ -21,5 +21,47 @@
   "beginner": "12 reps each side",
   "intermediate": "15 reps each side",
   "advanced": "20 reps each side",
-  "benefit": "strengthens lateral hip stability for better board control and knee protection"
+  "benefit": "strengthens lateral hip stability for better board control and knee protection",
+  "duration_seconds": {
+    "beginner": 132,
+    "intermediate": 165,
+    "advanced": 220
+  },
+  "data": {
+    "dpr": {
+      "phases": [
+        {
+          "seconds": 2,
+          "seconds_high": 3,
+          "label": "up"
+        },
+        {
+          "seconds": 1,
+          "label": "hold"
+        },
+        {
+          "seconds": 2,
+          "label": "down"
+        }
+      ]
+    },
+    "beginner": {
+      "count": 12,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 132
+    },
+    "intermediate": {
+      "count": 15,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 165
+    },
+    "advanced": {
+      "count": 20,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 220
+    }
+  }
 }

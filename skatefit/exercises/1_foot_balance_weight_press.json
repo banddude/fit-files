@@ -1,24 +1,72 @@
 {
-  "advanced" : "12 reps\/side (2×15–20 lb)",
-  "beginner" : "8 reps\/side (2×5–10 lb)",
-  "description" : "Single-leg stance, alternating overhead presses.",
-  "detailed_description" : "This challenging combination exercise targets single-leg stability, core strength, and shoulder mobility while integrating multiple movement demands that directly translate to improved skateboarding balance and control. Begin standing on one leg while holding dumbbells in both hands at shoulder height, engaging your core and focusing on a fixed point for balance. Perform alternating overhead presses while maintaining the single-leg stance, pressing one dumbbell overhead while keeping the other at shoulder height. The single-leg position challenges your balance system and forces deep stabilizer muscle turning on throughout your your whole body, while the overhead pressing motion develops functional upper body strength and core stability. This exercise specifically improves the ability to maintain balance while performing complex movements, essential for skateboarding tricks that require precise balance control during dynamic upper body movements. The single-side stance also builds the ankle, knee, and hip stability crucial for single-leg skateboarding maneuvers and landing control. Focus on maintaining steady posture and avoid compensating with excessive upper body movement or allowing the standing knee to collapse inward.",
-  "duration_per_rep" : "2-3 seconds per press",
-  "equipment" : [
+  "advanced": "12 reps/side (2\u00d715\u201320 lb)",
+  "beginner": "8 reps/side (2\u00d75\u201310 lb)",
+  "description": "Single-leg stance, alternating overhead presses.",
+  "detailed_description": "This challenging combination exercise targets single-leg stability, core strength, and shoulder mobility while integrating multiple movement demands that directly translate to improved skateboarding balance and control. Begin standing on one leg while holding dumbbells in both hands at shoulder height, engaging your core and focusing on a fixed point for balance. Perform alternating overhead presses while maintaining the single-leg stance, pressing one dumbbell overhead while keeping the other at shoulder height. The single-leg position challenges your balance system and forces deep stabilizer muscle turning on throughout your your whole body, while the overhead pressing motion develops functional upper body strength and core stability. This exercise specifically improves the ability to maintain balance while performing complex movements, essential for skateboarding tricks that require precise balance control during dynamic upper body movements. The single-side stance also builds the ankle, knee, and hip stability crucial for single-leg skateboarding maneuvers and landing control. Focus on maintaining steady posture and avoid compensating with excessive upper body movement or allowing the standing knee to collapse inward.",
+  "duration_per_rep": "2-3 seconds per press",
+  "equipment": [
     "dumbbells"
   ],
-  "exercise_type" : [
+  "exercise_type": [
     "balance"
   ],
-  "id" : "1_foot_balance_weight_press",
-  "intermediate" : "10 reps\/side (2×10–15 lb)",
-  "json_file" : "1_foot_balance_weight_press.json",
-  "move" : "1 foot balance weight press",
-  "skateboarding_benefit" : "",
-  "target_muscles" : [
+  "id": "1_foot_balance_weight_press",
+  "intermediate": "10 reps/side (2\u00d710\u201315 lb)",
+  "json_file": "1_foot_balance_weight_press.json",
+  "move": "1 foot balance weight press",
+  "skateboarding_benefit": "",
+  "target_muscles": [
     "core",
     "shoulders",
     "single-leg stability muscles"
   ],
-  "video_file" : "1_foot_balance_weight_press"
+  "video_file": "1_foot_balance_weight_press",
+  "duration_seconds": {
+    "beginner": 40,
+    "intermediate": 50,
+    "advanced": 60
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "per_unit": "press"
+    },
+    "beginner": {
+      "count": 8,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_count": 2,
+        "weight_lb": 5.0,
+        "weight_lb_high": 10.0
+      },
+      "total_seconds": 40
+    },
+    "intermediate": {
+      "count": 10,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_count": 2,
+        "weight_lb": 10.0,
+        "weight_lb_high": 15.0
+      },
+      "total_seconds": 50
+    },
+    "advanced": {
+      "count": 12,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_count": 2,
+        "weight_lb": 15.0,
+        "weight_lb_high": 20.0
+      },
+      "total_seconds": 60
+    }
+  }
 }

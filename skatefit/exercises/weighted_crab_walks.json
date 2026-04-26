@@ -22,5 +22,44 @@
   "beginner": "10 steps forward + 10 back (light)",
   "intermediate": "12 steps forward + 12 back (moderate)",
   "advanced": "15 steps forward + 15 back (heavy)",
-  "benefit": "strengthens posterior chain and improves core stability for better balance"
+  "benefit": "strengthens posterior chain and improves core stability for better balance",
+  "duration_seconds": {
+    "beginner": 50,
+    "intermediate": 60,
+    "advanced": 75
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "per_unit": "step"
+    },
+    "beginner": {
+      "count": 10,
+      "unit": "steps",
+      "equipment": {
+        "kind": "load",
+        "intensity": "light"
+      },
+      "total_seconds": 25
+    },
+    "intermediate": {
+      "count": 12,
+      "unit": "steps",
+      "equipment": {
+        "kind": "load",
+        "intensity": "moderate"
+      },
+      "total_seconds": 30
+    },
+    "advanced": {
+      "count": 15,
+      "unit": "steps",
+      "equipment": {
+        "kind": "load",
+        "intensity": "heavy"
+      },
+      "total_seconds": 38
+    }
+  }
 }

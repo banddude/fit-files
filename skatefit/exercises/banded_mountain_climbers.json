@@ -22,5 +22,36 @@
   "beginner": "20 total (light band)",
   "intermediate": "30 total (medium band)",
   "advanced": "40 total (heavy band)",
-  "benefit": "builds core endurance and hip flexor power for ollies and board manipulation"
+  "benefit": "builds core endurance and hip flexor power for ollies and board manipulation",
+  "duration_seconds": {
+    "beginner": 20,
+    "intermediate": 30,
+    "advanced": 40
+  },
+  "data": {
+    "dpr": {
+      "seconds": 1,
+      "per_unit": "knee_drive"
+    },
+    "beginner": {
+      "count": 20,
+      "equipment": {
+        "kind": "band",
+        "intensity": "light"
+      },
+      "total_seconds": 20
+    },
+    "intermediate": {
+      "count": 30,
+      "total_seconds": 30
+    },
+    "advanced": {
+      "count": 40,
+      "equipment": {
+        "kind": "band",
+        "intensity": "heavy"
+      },
+      "total_seconds": 40
+    }
+  }
 }

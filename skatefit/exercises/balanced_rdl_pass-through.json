@@ -22,5 +22,47 @@
   "beginner": "6 reps/side (5 lb dumbbell)",
   "intermediate": "8 reps/side (10 lb dumbbell)",
   "advanced": "10 reps/side (15 lb dumbbell)",
-  "benefit": "enhances dynamic balance and coordination for complex maneuvers"
+  "benefit": "enhances dynamic balance and coordination for complex maneuvers",
+  "duration_seconds": {
+    "beginner": 60,
+    "intermediate": 80,
+    "advanced": 100
+  },
+  "data": {
+    "dpr": {
+      "seconds": 4,
+      "seconds_high": 6,
+      "per_unit": "rep"
+    },
+    "beginner": {
+      "count": 6,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_lb": 5.0
+      },
+      "total_seconds": 60
+    },
+    "intermediate": {
+      "count": 8,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_lb": 10.0
+      },
+      "total_seconds": 80
+    },
+    "advanced": {
+      "count": 10,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_lb": 15.0
+      },
+      "total_seconds": 100
+    }
+  }
 }

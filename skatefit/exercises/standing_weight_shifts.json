@@ -22,5 +22,35 @@
   "beginner": "10 shifts each way",
   "intermediate": "12 shifts each way",
   "advanced": "15 shifts each way",
-  "benefit": "develops weight transfer skills essential for pumping and carving"
+  "benefit": "develops weight transfer skills essential for pumping and carving",
+  "duration_seconds": {
+    "beginner": 50,
+    "intermediate": 60,
+    "advanced": 75
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "per_unit": "shift"
+    },
+    "beginner": {
+      "count": 10,
+      "unit": "shifts",
+      "per": "way",
+      "total_seconds": 50
+    },
+    "intermediate": {
+      "count": 12,
+      "unit": "shifts",
+      "per": "way",
+      "total_seconds": 60
+    },
+    "advanced": {
+      "count": 15,
+      "unit": "shifts",
+      "per": "way",
+      "total_seconds": 75
+    }
+  }
 }

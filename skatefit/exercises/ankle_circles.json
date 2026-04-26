@@ -21,5 +21,34 @@
   "beginner": "10 each direction/foot (1 round)",
   "intermediate": "10 each direction/foot (2 rounds)",
   "advanced": "12 each direction/foot (2 rounds)",
-  "benefit": "improves board feel and push-off efficiency"
+  "benefit": "improves board feel and push-off efficiency",
+  "duration_seconds": {
+    "beginner": 100,
+    "intermediate": 200,
+    "advanced": 240
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "per_unit": "circle"
+    },
+    "beginner": {
+      "count": 10,
+      "per": "foot",
+      "total_seconds": 50
+    },
+    "intermediate": {
+      "count": 10,
+      "per": "foot",
+      "rounds": 2,
+      "total_seconds": 100
+    },
+    "advanced": {
+      "count": 12,
+      "per": "foot",
+      "rounds": 2,
+      "total_seconds": 120
+    }
+  }
 }

@@ -22,5 +22,34 @@
   "beginner": "12 reps (2 rounds)",
   "intermediate": "15 reps (2 rounds)",
   "advanced": "15-20 reps (3 rounds)",
-  "benefit": "maximizes vertical power for high ollies and transition air"
+  "benefit": "maximizes vertical power for high ollies and transition air",
+  "duration_seconds": {
+    "beginner": 48,
+    "intermediate": 60,
+    "advanced": 105
+  },
+  "data": {
+    "dpr": {
+      "descriptor": "explosive"
+    },
+    "beginner": {
+      "count": 12,
+      "unit": "reps",
+      "rounds": 2,
+      "total_seconds": 48
+    },
+    "intermediate": {
+      "count": 15,
+      "unit": "reps",
+      "rounds": 2,
+      "total_seconds": 60
+    },
+    "advanced": {
+      "count": 15,
+      "count_high": 20,
+      "unit": "reps",
+      "rounds": 3,
+      "total_seconds": 105
+    }
+  }
 }

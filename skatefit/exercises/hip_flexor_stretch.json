@@ -21,5 +21,32 @@
   "beginner": "Hold 20 s/side",
   "intermediate": "Hold 30 s/side",
   "advanced": "Hold 45 s/side",
-  "benefit": "releases hip flexor tightness from crouched skating stance"
+  "benefit": "releases hip flexor tightness from crouched skating stance",
+  "duration_seconds": {
+    "beginner": 40,
+    "intermediate": 60,
+    "advanced": 90
+  },
+  "data": {
+    "dpr": {
+      "seconds": 20,
+      "seconds_high": 45,
+      "mode": "hold"
+    },
+    "beginner": {
+      "hold_seconds": 20,
+      "per": "side",
+      "total_seconds": 40
+    },
+    "intermediate": {
+      "hold_seconds": 30,
+      "per": "side",
+      "total_seconds": 60
+    },
+    "advanced": {
+      "hold_seconds": 45,
+      "per": "side",
+      "total_seconds": 90
+    }
+  }
 }

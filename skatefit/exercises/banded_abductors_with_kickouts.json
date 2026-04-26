@@ -22,5 +22,36 @@
   "beginner": "10 reps each side (1 round)",
   "intermediate": "12 reps each side (2 rounds)",
   "advanced": "15 reps each side (2 rounds)",
-  "benefit": "improves lateral balance control and quick ankle adjustments for precise board manipulation"
+  "benefit": "improves lateral balance control and quick ankle adjustments for precise board manipulation",
+  "duration_seconds": {
+    "beginner": 50,
+    "intermediate": 120,
+    "advanced": 150
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3
+    },
+    "beginner": {
+      "count": 10,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 50
+    },
+    "intermediate": {
+      "count": 12,
+      "unit": "reps",
+      "per": "side",
+      "rounds": 2,
+      "total_seconds": 120
+    },
+    "advanced": {
+      "count": 15,
+      "unit": "reps",
+      "per": "side",
+      "rounds": 2,
+      "total_seconds": 150
+    }
+  }
 }

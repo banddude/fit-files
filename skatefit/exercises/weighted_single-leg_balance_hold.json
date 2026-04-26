@@ -21,5 +21,47 @@
   "beginner": "20 s/side (2\u00d75 lb)",
   "intermediate": "30 s/side (2\u00d710 lb)",
   "advanced": "45 s/side (2\u00d715 lb)",
-  "benefit": "improves board control and landing stability"
+  "benefit": "improves board control and landing stability",
+  "duration_seconds": {
+    "beginner": 40,
+    "intermediate": 60,
+    "advanced": 90
+  },
+  "data": {
+    "dpr": {
+      "seconds": 20,
+      "seconds_high": 45,
+      "mode": "hold"
+    },
+    "beginner": {
+      "hold_seconds": 20,
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_count": 2,
+        "weight_lb": 5.0
+      },
+      "total_seconds": 40
+    },
+    "intermediate": {
+      "hold_seconds": 30,
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_count": 2,
+        "weight_lb": 10.0
+      },
+      "total_seconds": 60
+    },
+    "advanced": {
+      "hold_seconds": 45,
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_count": 2,
+        "weight_lb": 15.0
+      },
+      "total_seconds": 90
+    }
+  }
 }

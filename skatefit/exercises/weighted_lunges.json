@@ -22,5 +22,46 @@
   "beginner": "8 reps/side (light DBs)",
   "intermediate": "10 reps/side (moderate DBs)",
   "advanced": "12 reps/side (heavier DBs)",
-  "benefit": "builds single-leg strength for pushing and landing stability"
+  "benefit": "builds single-leg strength for pushing and landing stability",
+  "duration_seconds": {
+    "beginner": 56,
+    "intermediate": 70,
+    "advanced": 84
+  },
+  "data": {
+    "dpr": {
+      "seconds": 3,
+      "seconds_high": 4
+    },
+    "beginner": {
+      "count": 8,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "intensity": "light"
+      },
+      "total_seconds": 56
+    },
+    "intermediate": {
+      "count": 10,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "intensity": "moderate"
+      },
+      "total_seconds": 70
+    },
+    "advanced": {
+      "count": 12,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "dumbbell",
+        "intensity": "heavier"
+      },
+      "total_seconds": 84
+    }
+  }
 }

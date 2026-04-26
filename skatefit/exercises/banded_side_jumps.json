@@ -22,5 +22,33 @@
   "beginner": "15 total jumps (2 rounds)",
   "intermediate": "18 total jumps (2 rounds)",
   "advanced": "20 total jumps (3 rounds)",
-  "benefit": "develops lateral explosive power for trick execution and board manipulation"
+  "benefit": "develops lateral explosive power for trick execution and board manipulation",
+  "duration_seconds": {
+    "beginner": 60,
+    "intermediate": 72,
+    "advanced": 120
+  },
+  "data": {
+    "dpr": {
+      "descriptor": "explosive"
+    },
+    "beginner": {
+      "count": 15,
+      "unit": "jumps",
+      "rounds": 2,
+      "total_seconds": 60
+    },
+    "intermediate": {
+      "count": 18,
+      "unit": "jumps",
+      "rounds": 2,
+      "total_seconds": 72
+    },
+    "advanced": {
+      "count": 20,
+      "unit": "jumps",
+      "rounds": 3,
+      "total_seconds": 120
+    }
+  }
 }

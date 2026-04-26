@@ -21,5 +21,33 @@
   "beginner": "10 each direction/foot (1 round)",
   "intermediate": "10 each direction/foot (2 rounds)",
   "advanced": "12 each direction/foot (2 rounds)",
-  "benefit": "prevents ankle sprains and improves board control precision"
+  "benefit": "prevents ankle sprains and improves board control precision",
+  "duration_seconds": {
+    "beginner": 40,
+    "intermediate": 80,
+    "advanced": 96
+  },
+  "data": {
+    "dpr": {
+      "seconds": 1,
+      "per_unit": "flick"
+    },
+    "beginner": {
+      "count": 10,
+      "per": "foot",
+      "total_seconds": 20
+    },
+    "intermediate": {
+      "count": 10,
+      "per": "foot",
+      "rounds": 2,
+      "total_seconds": 40
+    },
+    "advanced": {
+      "count": 12,
+      "per": "foot",
+      "rounds": 2,
+      "total_seconds": 48
+    }
+  }
 }

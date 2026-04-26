@@ -22,5 +22,35 @@
   "beginner": "10 tilts each direction",
   "intermediate": "12 tilts each direction",
   "advanced": "15 tilts each direction",
-  "benefit": "develops skateboard-specific balance and weight shift control"
+  "benefit": "develops skateboard-specific balance and weight shift control",
+  "duration_seconds": {
+    "beginner": 50,
+    "intermediate": 60,
+    "advanced": 75
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "per_unit": "tilt"
+    },
+    "beginner": {
+      "count": 10,
+      "unit": "tilts",
+      "per": "direction",
+      "total_seconds": 50
+    },
+    "intermediate": {
+      "count": 12,
+      "unit": "tilts",
+      "per": "direction",
+      "total_seconds": 60
+    },
+    "advanced": {
+      "count": 15,
+      "unit": "tilts",
+      "per": "direction",
+      "total_seconds": 75
+    }
+  }
 }

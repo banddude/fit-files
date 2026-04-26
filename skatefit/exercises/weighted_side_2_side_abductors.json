@@ -21,5 +21,47 @@
   "beginner": "10 reps/side (light load)",
   "intermediate": "12 reps/side (moderate load)",
   "advanced": "15 reps/side (heavier load)",
-  "benefit": "develops lateral control for carving and side-to-side balance"
+  "benefit": "develops lateral control for carving and side-to-side balance",
+  "duration_seconds": {
+    "beginner": 50,
+    "intermediate": 60,
+    "advanced": 75
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "per_unit": "step"
+    },
+    "beginner": {
+      "count": 10,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "load",
+        "intensity": "light"
+      },
+      "total_seconds": 50
+    },
+    "intermediate": {
+      "count": 12,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "load",
+        "intensity": "moderate"
+      },
+      "total_seconds": 60
+    },
+    "advanced": {
+      "count": 15,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "load",
+        "intensity": "heavier"
+      },
+      "total_seconds": 75
+    }
+  }
 }

@@ -21,5 +21,37 @@
   "beginner": "10 reps each side",
   "intermediate": "12\u201315 reps each side",
   "advanced": "15\u201320 reps each side",
-  "benefit": "builds lateral core stability for carving and rail slides"
+  "benefit": "builds lateral core stability for carving and rail slides",
+  "duration_seconds": {
+    "beginner": 50,
+    "intermediate": 68,
+    "advanced": 88
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3,
+      "per_unit": "dip"
+    },
+    "beginner": {
+      "count": 10,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 50
+    },
+    "intermediate": {
+      "count": 12,
+      "count_high": 15,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 68
+    },
+    "advanced": {
+      "count": 15,
+      "count_high": 20,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 88
+    }
+  }
 }

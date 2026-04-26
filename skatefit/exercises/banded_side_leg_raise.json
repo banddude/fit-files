@@ -21,5 +21,51 @@
   "beginner": "10 reps/side (light band)",
   "intermediate": "12 reps/side (medium band)",
   "advanced": "15 reps/side (heavy band)",
-  "benefit": "strengthens lateral stability for turns and carves"
+  "benefit": "strengthens lateral stability for turns and carves",
+  "duration_seconds": {
+    "beginner": 90,
+    "intermediate": 108,
+    "advanced": 135
+  },
+  "data": {
+    "dpr": {
+      "phases": [
+        {
+          "seconds": 2,
+          "seconds_high": 3,
+          "label": "up"
+        },
+        {
+          "seconds": 2,
+          "label": "down"
+        }
+      ]
+    },
+    "beginner": {
+      "count": 10,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "band",
+        "intensity": "light"
+      },
+      "total_seconds": 90
+    },
+    "intermediate": {
+      "count": 12,
+      "unit": "reps",
+      "per": "side",
+      "total_seconds": 108
+    },
+    "advanced": {
+      "count": 15,
+      "unit": "reps",
+      "per": "side",
+      "equipment": {
+        "kind": "band",
+        "intensity": "heavy"
+      },
+      "total_seconds": 135
+    }
+  }
 }

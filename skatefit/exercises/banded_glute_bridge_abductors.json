@@ -22,5 +22,35 @@
   "beginner": "15 reps (1 round)",
   "intermediate": "15\u201320 reps (2 rounds)",
   "advanced": "20\u201325 reps (2 rounds)",
-  "benefit": "develops comprehensive hip stability for better board control and injury prevention"
+  "benefit": "develops comprehensive hip stability for better board control and injury prevention",
+  "duration_seconds": {
+    "beginner": 38,
+    "intermediate": 88,
+    "advanced": 112
+  },
+  "data": {
+    "dpr": {
+      "seconds": 2,
+      "seconds_high": 3
+    },
+    "beginner": {
+      "count": 15,
+      "unit": "reps",
+      "total_seconds": 38
+    },
+    "intermediate": {
+      "count": 15,
+      "count_high": 20,
+      "unit": "reps",
+      "rounds": 2,
+      "total_seconds": 88
+    },
+    "advanced": {
+      "count": 20,
+      "count_high": 25,
+      "unit": "reps",
+      "rounds": 2,
+      "total_seconds": 112
+    }
+  }
 }

@@ -22,5 +22,51 @@
   "beginner": "6 reps each leg, 6 sec hold (10 lb assistance)",
   "intermediate": "8 reps each leg, 8 sec hold (15 lb assistance)",
   "advanced": "8-12 reps each leg, 10 sec hold (15 lb assistance)",
-  "benefit": "develops single-leg strength and stability for manuals and advanced balance tricks"
+  "benefit": "develops single-leg strength and stability for manuals and advanced balance tricks",
+  "duration_seconds": {
+    "beginner": 72,
+    "intermediate": 128,
+    "advanced": 200
+  },
+  "data": {
+    "dpr": {
+      "seconds": 8,
+      "seconds_high": 12,
+      "mode": "hold"
+    },
+    "beginner": {
+      "secondary_hold_seconds": 6,
+      "count": 6,
+      "unit": "reps",
+      "per": "leg",
+      "equipment": {
+        "kind": "assistance",
+        "weight_lb": 10.0
+      },
+      "total_seconds": 72
+    },
+    "intermediate": {
+      "secondary_hold_seconds": 8,
+      "count": 8,
+      "unit": "reps",
+      "per": "leg",
+      "equipment": {
+        "kind": "assistance",
+        "weight_lb": 15.0
+      },
+      "total_seconds": 128
+    },
+    "advanced": {
+      "secondary_hold_seconds": 10,
+      "count": 8,
+      "count_high": 12,
+      "unit": "reps",
+      "per": "leg",
+      "equipment": {
+        "kind": "assistance",
+        "weight_lb": 15.0
+      },
+      "total_seconds": 200
+    }
+  }
 }

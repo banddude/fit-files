@@ -23,5 +23,31 @@
   "beginner": "10 jumps each side",
   "intermediate": "12 jumps each side",
   "advanced": "15 jumps each side",
-  "benefit": "mimics pumping motion for generating speed in transitions and bowls"
+  "benefit": "mimics pumping motion for generating speed in transitions and bowls",
+  "duration_seconds": {
+    "beginner": 40,
+    "intermediate": 48,
+    "advanced": 60
+  },
+  "data": {
+    "dpr": {},
+    "beginner": {
+      "count": 10,
+      "unit": "jumps",
+      "per": "side",
+      "total_seconds": 40
+    },
+    "intermediate": {
+      "count": 12,
+      "unit": "jumps",
+      "per": "side",
+      "total_seconds": 48
+    },
+    "advanced": {
+      "count": 15,
+      "unit": "jumps",
+      "per": "side",
+      "total_seconds": 60
+    }
+  }
 }

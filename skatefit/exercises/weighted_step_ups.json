@@ -22,5 +22,43 @@
   "beginner": "8 each leg (15 lb weights)",
   "intermediate": "10 each leg (20 lb weights)",
   "advanced": "10-20 each leg (30 lb weights)",
-  "benefit": "builds single-leg power for push-offs and trick landings"
+  "benefit": "builds single-leg power for push-offs and trick landings",
+  "duration_seconds": {
+    "beginner": 32,
+    "intermediate": 40,
+    "advanced": 60
+  },
+  "data": {
+    "dpr": {
+      "descriptor": "controlled"
+    },
+    "beginner": {
+      "count": 8,
+      "per": "leg",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_lb": 15.0
+      },
+      "total_seconds": 32
+    },
+    "intermediate": {
+      "count": 10,
+      "per": "leg",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_lb": 20.0
+      },
+      "total_seconds": 40
+    },
+    "advanced": {
+      "count": 10,
+      "count_high": 20,
+      "per": "leg",
+      "equipment": {
+        "kind": "dumbbell",
+        "weight_lb": 30.0
+      },
+      "total_seconds": 60
+    }
+  }
 }

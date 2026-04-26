@@ -22,5 +22,31 @@
   "beginner": "6 bounds each leg",
   "intermediate": "8 bounds each leg",
   "advanced": "10 bounds each leg",
-  "benefit": "develops explosive power for ollies and single-leg landing control"
+  "benefit": "develops explosive power for ollies and single-leg landing control",
+  "duration_seconds": {
+    "beginner": 24,
+    "intermediate": 32,
+    "advanced": 40
+  },
+  "data": {
+    "dpr": {},
+    "beginner": {
+      "count": 6,
+      "unit": "bounds",
+      "per": "leg",
+      "total_seconds": 24
+    },
+    "intermediate": {
+      "count": 8,
+      "unit": "bounds",
+      "per": "leg",
+      "total_seconds": 32
+    },
+    "advanced": {
+      "count": 10,
+      "unit": "bounds",
+      "per": "leg",
+      "total_seconds": 40
+    }
+  }
 }

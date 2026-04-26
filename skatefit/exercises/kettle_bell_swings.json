@@ -21,5 +21,46 @@
   "beginner": "12 reps (light KB)",
   "intermediate": "15\u201320 reps (moderate KB)",
   "advanced": "20\u201325 reps (heavier KB)",
-  "benefit": "builds explosive hip power for ollies and pumping motions"
+  "benefit": "builds explosive hip power for ollies and pumping motions",
+  "duration_seconds": {
+    "beginner": 18,
+    "intermediate": 26,
+    "advanced": 34
+  },
+  "data": {
+    "dpr": {
+      "seconds": 1,
+      "seconds_high": 2,
+      "per_unit": "swing"
+    },
+    "beginner": {
+      "count": 12,
+      "unit": "reps",
+      "equipment": {
+        "kind": "kettlebell",
+        "intensity": "light"
+      },
+      "total_seconds": 18
+    },
+    "intermediate": {
+      "count": 15,
+      "count_high": 20,
+      "unit": "reps",
+      "equipment": {
+        "kind": "kettlebell",
+        "intensity": "moderate"
+      },
+      "total_seconds": 26
+    },
+    "advanced": {
+      "count": 20,
+      "count_high": 25,
+      "unit": "reps",
+      "equipment": {
+        "kind": "kettlebell",
+        "intensity": "heavier"
+      },
+      "total_seconds": 34
+    }
+  }
 }

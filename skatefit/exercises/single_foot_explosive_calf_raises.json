@@ -21,5 +21,33 @@
   "beginner": "10 each leg (2 rounds)",
   "intermediate": "12 each leg (2 rounds)",
   "advanced": "15 each leg (3 rounds)",
-  "benefit": "develops explosive pop power and single-leg stability for consistent trick execution"
+  "benefit": "develops explosive pop power and single-leg stability for consistent trick execution",
+  "duration_seconds": {
+    "beginner": 80,
+    "intermediate": 96,
+    "advanced": 180
+  },
+  "data": {
+    "dpr": {
+      "descriptor": "explosive"
+    },
+    "beginner": {
+      "count": 10,
+      "per": "leg",
+      "rounds": 2,
+      "total_seconds": 80
+    },
+    "intermediate": {
+      "count": 12,
+      "per": "leg",
+      "rounds": 2,
+      "total_seconds": 96
+    },
+    "advanced": {
+      "count": 15,
+      "per": "leg",
+      "rounds": 3,
+      "total_seconds": 180
+    }
+  }
 }

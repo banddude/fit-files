@@ -22,5 +22,33 @@
   "beginner": "10 each side (2 rounds)",
   "intermediate": "12 each side (2 rounds)",
   "advanced": "15 each side (3 rounds)",
-  "benefit": "perfects ollie mechanics and develops unilateral explosive power for trick consistency"
+  "benefit": "perfects ollie mechanics and develops unilateral explosive power for trick consistency",
+  "duration_seconds": {
+    "beginner": 80,
+    "intermediate": 96,
+    "advanced": 180
+  },
+  "data": {
+    "dpr": {
+      "descriptor": "explosive"
+    },
+    "beginner": {
+      "count": 10,
+      "per": "side",
+      "rounds": 2,
+      "total_seconds": 80
+    },
+    "intermediate": {
+      "count": 12,
+      "per": "side",
+      "rounds": 2,
+      "total_seconds": 96
+    },
+    "advanced": {
+      "count": 15,
+      "per": "side",
+      "rounds": 3,
+      "total_seconds": 180
+    }
+  }
 }
