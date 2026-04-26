@@ -49,5 +49,6 @@
       "per": "leg",
       "total_seconds": 90
     }
-  }
+  },
+  "transition_seconds": 10
 }

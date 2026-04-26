@@ -50,5 +50,6 @@
       "rounds": 3,
       "total_seconds": 120
     }
-  }
+  },
+  "transition_seconds": 12
 }

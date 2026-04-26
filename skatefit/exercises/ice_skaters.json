@@ -49,5 +49,6 @@
       "per": "side",
       "total_seconds": 60
     }
-  }
+  },
+  "transition_seconds": 5
 }

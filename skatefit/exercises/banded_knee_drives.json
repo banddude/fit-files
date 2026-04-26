@@ -66,5 +66,6 @@
       },
       "total_seconds": 80
     }
-  }
+  },
+  "transition_seconds": 12
 }

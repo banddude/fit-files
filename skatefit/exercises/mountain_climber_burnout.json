@@ -44,5 +44,6 @@
       "duration_seconds": 30,
       "total_seconds": 30
     }
-  }
+  },
+  "transition_seconds": 5
 }

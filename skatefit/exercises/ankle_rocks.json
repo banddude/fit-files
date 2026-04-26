@@ -48,5 +48,6 @@
       "unit": "rocks",
       "total_seconds": 38
     }
-  }
+  },
+  "transition_seconds": 5
 }

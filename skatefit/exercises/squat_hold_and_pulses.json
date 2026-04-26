@@ -50,5 +50,6 @@
       "pulses": 20,
       "total_seconds": 45
     }
-  }
+  },
+  "transition_seconds": 5
 }

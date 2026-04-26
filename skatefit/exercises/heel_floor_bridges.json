@@ -20,8 +20,8 @@
   "json_file": "heel_floor_bridges.json",
   "duration_per_rep": "2-3 seconds",
   "beginner": "12 reps (1 round)",
-  "intermediate": "12\u201315 reps (2 rounds)",
-  "advanced": "15\u201320 reps (2 rounds)",
+  "intermediate": "12–15 reps (2 rounds)",
+  "advanced": "15–20 reps (2 rounds)",
   "benefit": "builds explosive power for ollies while improving ankle mobility",
   "duration_seconds": {
     "beginner": 30,
@@ -52,5 +52,6 @@
       "rounds": 2,
       "total_seconds": 88
     }
-  }
+  },
+  "transition_seconds": 5
 }

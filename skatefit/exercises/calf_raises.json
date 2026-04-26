@@ -59,5 +59,6 @@
       "unit": "reps",
       "total_seconds": 110
     }
-  }
+  },
+  "transition_seconds": 5
 }

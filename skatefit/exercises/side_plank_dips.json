@@ -19,8 +19,8 @@
   "json_file": "side_plank_dips.json",
   "duration_per_rep": "2-3 seconds per dip",
   "beginner": "10 reps each side",
-  "intermediate": "12\u201315 reps each side",
-  "advanced": "15\u201320 reps each side",
+  "intermediate": "12–15 reps each side",
+  "advanced": "15–20 reps each side",
   "benefit": "builds lateral core stability for carving and rail slides",
   "duration_seconds": {
     "beginner": 50,
@@ -53,5 +53,6 @@
       "per": "side",
       "total_seconds": 88
     }
-  }
+  },
+  "transition_seconds": 5
 }
