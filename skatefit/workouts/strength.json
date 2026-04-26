@@ -1,7 +1,7 @@
 {
   "name": "Strength",
   "icon": "dumbbell.fill",
-  "color": "purple",
+  "color": "red",
   "exercises": [
     {
       "exercise_id": "thrusters",
