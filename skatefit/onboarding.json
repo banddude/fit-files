@@ -2,7 +2,7 @@
   "onboarding": {
     "welcome": {
       "icon": "skater_icon",
-      "title": "Welcome to SkateFit",
+      "title": "Welcome",
       "subtitle": "Skateboarding-Specific Fitness",
       "description": "Build the strength, balance and mobility you need to train like a skater and progress like a pro.",
       "features": [
@@ -98,7 +98,7 @@
       "cards": [
         {
           "icon": "hand.draw",
-          "title": "Swipe Between Exercises (← →)",
+          "title": "Swipe Between Exercises (\u2190 \u2192)",
           "description": "Swipe left or right to move through your workout exercises",
           "color": "blue"
         },
@@ -110,7 +110,7 @@
         },
         {
           "icon": "arrow.down.circle.fill",
-          "title": "Swipe Down to Exit (↓)",
+          "title": "Swipe Down to Exit (\u2193)",
           "description": "Swipe down to leave your workout and return to the main screen",
           "color": "orange"
         }
